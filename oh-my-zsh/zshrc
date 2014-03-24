@@ -1,0 +1,202 @@
+# Path to your oh-my-zsh configuration.
+ZSH=$HOME/.config/oh-my-zsh
+
+# Set name of the theme to load.
+# Look in ~/.oh-my-zsh/themes/
+# Optionally, if you set this to "random", it'll load a random theme each
+# time that oh-my-zsh is loaded.
+# ZSH_THEME="pygmalion"
+ZSH_THEME="norm"
+# ZSH_THEME="blinks"
+
+#auto startX
+[[ $(fgconsole 2>/dev/null) == 1 ]] && exec startx -- vt1
+eval $(dircolors ~/.config/oh-my-zsh/solarized.colors)
+
+
+# Example aliases
+# alias zshconfig="mate ~/.zshrc"
+# alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# Set to this to use case-sensitive completion
+# CASE_SENSITIVE="true"
+
+# Comment this out to disable weekly auto-update checks
+# DISABLE_AUTO_UPDATE="true"
+
+# Uncomment following line if you want to disable colors in ls
+# DISABLE_LS_COLORS="true"
+
+# Uncomment following line if you want to disable autosetting terminal title.
+# DISABLE_AUTO_TITLE="true"
+
+# Uncomment following line if you want red dots to be displayed while waiting for completion
+# COMPLETION_WAITING_DOTS="true"
+
+# Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
+# Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
+# Example format: plugins=(rails git textmate ruby lighthouse)
+plugins=(git)
+
+source $ZSH/oh-my-zsh.sh
+
+# Customize to your needs...
+export PATH=$HOME/.cabal/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/opt/java/jre/bin:/usr/bin/vendor_perl:/usr/bin/core_perl:$HOME/Ressources/Programmation/Shell/
+
+export EDITOR=/usr/bin/vim
+export TERM=xterm
+export GHCRTS='-N4'
+source $HOME/.keychain/hermes-sh
+
+
+
+zstyle ':completion:*:sudo:*' command-path /usr/local/sbin /usr/local/bin \
+                           /usr/sbin /usr/bin /sbin /bin /usr/X11R6/bin
+
+#######################################################################################
+#                                 ALIAS                                               #
+#######################################################################################
+# {{{ ALIAS
+
+#General
+alias ls='ls -F --color'
+alias ll="ls -hl --group-directories-first"
+alias la='ls -Ahl'          # show hidden files
+alias lx='ls -lXhB'         # sort by extension
+alias lk='ls -lSrh'         # sort by size, biggest last
+alias lc='ls -ltcrh'        # sort by and show change time, most recent last
+#alias lu='ls -ltur'        # sort by and show access time, most recent last
+alias lt='ls -ltrh'         # sort by date, most recent last
+#alias lm='ls -al |more'    # pipe through 'more'
+alias lr='ls -lRh'          # recursive ls
+alias tags='ctags -R --c++-kinds=+pl --fields=+iaS --extra=+q'
+alias ff="find -iname"
+alias tls="tmux ls"
+alias tat="tmux at"
+alias make="make -j5"
+alias halt="sudo halt -p"
+alias yaourt_upgrade="yaourt -Syu --aur --devel"
+alias yaourt_clean_cache="yaourt -Scc"
+alias yaourt_install_history="yaourt -Q -e --date | grep -v lib | sed -E 's#(^[^/]+/)|( .*$)##g'"
+alias hsenv=myhsenv
+alias rh="runhaskell Setup.hs"
+
+function cdp () {
+    cd "/home/erebe/Ressources/Programmation/$1"
+}
+
+function cdc () {
+    cd "/home/erebe/Ressources/Cours/INSA_4/$1"
+}
+
+ssh-reagent () {
+    for agent in /tmp/ssh-*/agent.*; do
+        export SSH_AUTH_SOCK=$agent
+        if ssh-add -l 2>&1 > /dev/null; then
+            echo Found working SSH Agent:
+            ssh-add -l
+            ssh erebe@erebe.eu
+            return
+        fi
+    done
+    echo Cannot find ssh agent - maybe you should reconnect and forward it?
+}
+# }}}
+
+# {{{ GIT
+function git_create (){
+
+echo "Creating local repository"
+git init "$1"
+cd "$1"
+
+echo 'Creating bitbucket repository'
+curl -u 'erebe' https://api.bitbucket.org/1.0/repositories/ --data name="$1"
+
+echo 'Creating github repository'
+curl -u 'erebe' https://api.github.com/user/repos -d "{\"name\":\"$1\"}"
+
+
+echo '
+[remote "origin"]
+    url = git@github.com:erebe/'"$1"'.git
+    url = git@bitbucket.org:erebe/'"$1"'.git
+    fetch = +refs/heads/*:refs/remotes/origin/*
+
+[branch "master"]
+    remote = origin
+    merge = refs/heads/master
+
+' >> .git/config
+
+}
+
+
+function git_create_private (){
+echo "Creating local repository"
+git init "$1"
+cd "$1"
+
+echo 'Creating bitbucket repository'
+curl -u 'erebe' https://api.bitbucket.org/1.0/repositories/ --data "name=$1;is_private=\"true\""
+echo 'Creating gitlab repository'
+curl --insecure --header "PRIVATE-TOKEN: qMbd9LuH82vv3ftGp8zW" "https://git.erebe.eu/api/v3/projects" --data "name=$1"
+
+echo '
+[remote "origin"]
+    url = git@bitbucket.org:erebe/'"$1"'.git
+    url = git@git.erebe.eu:root/'"$1"'.git
+    fetch = +refs/heads/*:refs/remotes/origin/*
+
+[branch "master"]
+    remote = origin
+    merge = refs/heads/master
+
+' >> .git/config
+}
+# }}}
+
+
+function myhsenv {
+
+   if [ ! -e ".hsenv" ]
+   then
+       export GHCRTS=''
+       $HOME/.cabal/bin/hsenv
+       echo "documentation: True" >> .hsenv/cabal/config
+       echo "flags: --ghc-options=-threaded" >> .hsenv/cabal/config
+   fi
+
+   source .hsenv/bin/activate
+}
+
+#haskell
+function cabal-upgrade {
+cabal update
+cabal list --simple-output --installed | awk '{print $1}' | uniq | xargs -I {} cabal install -j5 --reinstall {}
+}
+
+
+#######################################################################################
+#                                KEYBIND                                              #
+#######################################################################################
+# {{{ KEYBIND
+bindkey "\e[1~" beginning-of-line # Home
+bindkey "\e[4~" end-of-line # End#
+bindkey "\e[5~" beginning-of-history # PageUp
+bindkey "\e[6~" end-of-history # PageDown
+bindkey "\e[2~" quoted-insert # Ins
+bindkey "\e[3~" delete-char # Del
+bindkey "\e[5C" forward-word
+bindkey "\eOc" emacs-forward-word
+bindkey "\e[5D" backward-word
+bindkey "\eOd" emacs-backward-word
+bindkey "\e\e[C" forward-word
+bindkey "\e\e[D" backward-word
+bindkey "\e[Z" reverse-menu-complete # Shift+Tab#
+# for rxvt
+bindkey "\e[7~" beginning-of-line # Home
+bindkey "\e[8~" end-of-line # En
+# }}}
+
+

@@ -1,0 +1,70 @@
+From ab2d8b8848b38e6593e3f0c051d0ec4657efc1d4 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Er=C3=A8be?= <erebe@erebe.eu>
+Date: Wed, 30 Jan 2013 14:25:37 +0100
+Subject: [PATCH 1/2] Fix event
+
+---
+ gui.py | 6 +-----
+ 1 file changed, 1 insertion(+), 5 deletions(-)
+
+diff --git a/gui.py b/gui.py
+index 58bb98c..06548f2 100644
+--- a/gui.py
++++ b/gui.py
+@@ -392,8 +392,6 @@ class appGui(object):
+ 
+     def update_statusbar(self):
+         """ Triggers a status update in wicd-monitor. """
+-        if not self.is_visible:
+-            return True
+ 
+         daemon.UpdateState()
+         if self.connecting:
+@@ -403,8 +401,6 @@ class appGui(object):
+         return True
+ 
+     def _do_statusbar_update(self, state, info):
+-        if not self.is_visible:
+-            return True
+ 
+         if state == misc.WIRED:
+             return self.set_wired_state(info)
+@@ -498,8 +494,8 @@ class appGui(object):
+ 
+         if self.msg.find("Connect") == -1 and self.msg != msg:
+             os.spawnv(os.P_WAIT, "/usr/bin/notify-send", ["notify-send" ,msg])
+-            self.msg = msg
+ 
++        self.msg = msg
+         self.statusID = self.status_bar.push(1, msg)
+ 
+     def dbus_scan_finished(self):
+-- 
+1.8.1.1
+
+
+From d9c59153f360fc0ef0adeedbcb7ea3bc5f870898 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Er=C3=A8be?= <erebe@erebe.eu>
+Date: Wed, 30 Jan 2013 15:28:28 +0100
+Subject: [PATCH 2/2] Fix notification
+
+---
+ wicd-client.py | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/wicd-client.py b/wicd-client.py
+index 969bff6..e4af234 100644
+--- a/wicd-client.py
++++ b/wicd-client.py
+@@ -519,6 +519,8 @@ class TrayIcon(object):
+             self.time = 2           # Time between updates
+             self.cont = 'Stop'
+             self.conn_info_txt = ''
++            self.toggle_wicd_gui()
++            self.toggle_wicd_gui()
+             
+         def tray_scan_started(self):
+             """ Callback for when a wireless scan is started. """
+-- 
+1.8.1.1
+

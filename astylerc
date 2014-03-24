@@ -1,0 +1,14 @@
+--style=linux
+--indent-classes
+--indent-switches
+--indent-col1-comments 
+--indent-preprocessor
+--min-conditional-indent=0
+--pad-oper
+--unpad-paren
+--convert-tabs
+--align-pointer=type
+--align-reference=type
+--max-instatement-indent=40
+--pad-header
+--indent=spaces

@@ -1,0 +1,27 @@
+From 741edb02367194089f55c8f737c9a45dbf641db1 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Er=C3=A8be?= <erebe@erebe.eu>
+Date: Wed, 30 Jan 2013 15:13:14 +0100
+Subject: [PATCH] fix locale
+
+---
+ awesome.c | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/awesome.c b/awesome.c
+index 9178d36..737bee7 100644
+--- a/awesome.c
++++ b/awesome.c
+@@ -319,7 +319,9 @@ main(int argc, char **argv)
+     }
+ 
+     /* Text won't be printed correctly otherwise */
+-    setlocale(LC_CTYPE, "");
++    setlocale(LC_CTYPE, "fr_FR.UTF-8" );
++    setlocale(LC_ALL,   "fr_FR.UTF-8" );
++    setlocale(LC_TIME,  "fr_FR.UTF-8" );
+ 
+     /* Get XDG basedir data */
+     xdgInitHandle(&xdg);
+-- 
+1.8.1.1
+

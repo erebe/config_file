@@ -1,0 +1,3 @@
+! To be called with xmodmap
+remove Lock = Caps_Lock
+keysym Caps_Lock = comma

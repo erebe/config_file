@@ -1,0 +1,492 @@
+2012-10-21 03:15:48	--	irc: connected to irc.efnet.fr/6667 (194.126.217.2)
+2012-10-21 03:15:48	--	*** Processing connection to irc.efnet.fr
+2012-10-21 03:15:48	--	*** Looking up your hostname...
+2012-10-21 03:15:48	--	*** Checking Ident
+2012-10-21 03:15:50	--	*** Found your hostname
+2012-10-21 03:15:58	--	*** No Ident response
+2012-10-21 03:15:58	--	Welcome to the EFnet Internet Relay Chat Network Erebe
+2012-10-21 03:15:58	--	Your host is irc.efnet.fr[194.126.217.2/6667], running version ircd-ratbox-2.2.8
+2012-10-21 03:15:58	--	This server was created vendredi 20 f?vrier (UTC+0100) at 2009, 19:39:05
+2012-10-21 03:15:58	--	irc.efnet.fr ircd-ratbox-2.2.8 oiwszcerkfydnxbauglZCD biklmnopstveI bkloveI
+2012-10-21 03:15:58	--	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpst CHANLIMIT=&#:25 PREFIX=(ov)@+ MAXLIST=beI:100 NETWORK=EFnet MODES=4 STATUSMSG=@+ KNOCK CALLERID=g :are supported by this server
+2012-10-21 03:15:58	--	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=30 :are supported by this server
+2012-10-21 03:15:58	--	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2012-10-21 03:15:58	--	There are 7402 users and 27522 invisible on 37 servers
+2012-10-21 03:15:58	--	196 :IRC Operators online
+2012-10-21 03:15:58	--	17065 :channels formed
+2012-10-21 03:15:58	--	I have 231 clients and 1 servers
+2012-10-21 03:15:58	--	231 274 :Current local users 231, max 274
+2012-10-21 03:15:58	--	34924 36120 :Current global users 34924, max 36120
+2012-10-21 03:15:58	--	Highest connection count: 275 (274 clients) (16041 connections received)
+2012-10-21 03:15:58	--	- irc.efnet.fr Message of the Day -
+2012-10-21 03:15:58	--	- -----------------------------------------------------------------------
+2012-10-21 03:15:58	--	- |  _                    __             _        __       | Admins:
+2012-10-21 03:15:58	--	- | (_) _ _  __     ___  / _| _ _   ___ | |_     / _| _ _  |
+2012-10-21 03:15:58	--	- | | || '_|/ _| _ / -_)|  _|| ' \ / -_)|  _| _ |  _|| '_| | mo
+2012-10-21 03:15:58	--	- | |_||_|  \__|(_)\___||_|  |_||_|\___| \__|(_)|_|  |_|   | Grievah
+2012-10-21 03:15:58	--	- -----------------------------------------------------------------------
+2012-10-21 03:15:58	--	- |
+2012-10-21 03:15:58	--	- | Welcome.
+2012-10-21 03:15:58	--	- | This server is hosted by BSO Network Solutions (http://www.bsonetwork.com/)
+2012-10-21 03:15:58	--	- | in Paris, France.
+2012-10-21 03:15:58	--	- |
+2012-10-21 03:15:58	--	- | Connections.
+2012-10-21 03:15:58	--	- | If you have an issue connecting from a French ISP to this server,
+2012-10-21 03:15:58	--	- | please contact the admins.
+2012-10-21 03:15:58	--	- | You may connect to ports: 6667, 6668, 6669.
+2012-10-21 03:15:58	--	- |
+2012-10-21 03:15:58	--	- | Scanning.
+2012-10-21 03:15:58	--	- | This server runs a proxy scanner upon connect, for security purposes.
+2012-10-21 03:15:58	--	- | Your (or your organisation's) firewall may log attempted connections
+2012-10-21 03:15:58	--	- | to your TCP ports: 23, 80, 1080, 3128, 8080.
+2012-10-21 03:15:58	--	- | You should not be alarmed by these.
+2012-10-21 03:15:58	--	- |
+2012-10-21 03:15:58	--	- | Abuse.
+2012-10-21 03:15:58	--	- | Spambots, floodbots, warezbots will be klined on sight.
+2012-10-21 03:15:58	--	- | To report an abuse of a client on this server, please send logs to
+2012-10-21 03:15:58	--	- | the admins.
+2012-10-21 03:15:58	--	- | You may also locate an active oper using: /stats p irc.efnet.fr
+2012-10-21 03:15:58	--	- |
+2012-10-21 03:15:58	--	- | Connecting to this server is a priviledge offered by BSO Comm., not
+2012-10-21 03:15:58	--	- | a birth right. You may be banned without any further explanation, at
+2012-10-21 03:15:58	--	- | the discretion of this network's Operators.
+2012-10-21 03:15:58	--	- |
+2012-10-21 03:15:58	--	- | Contact.
+2012-10-21 03:15:58	--	- | Staff:         mo, Grievah, Linds, gre
+2012-10-21 03:15:58	--	- | Channel:       #fr-opers
+2012-10-21 03:15:58	--	- | Email:         ircadmin@efnet.fr
+2012-10-21 03:15:58	--	- |
+2012-10-21 03:15:58	--	- -----------------------------------------------------------------------
+2012-10-21 03:15:58	--	- | Current news.
+2012-10-21 03:15:58	--	- | Welcome :)
+2012-10-21 03:15:58	--	- |
+2012-10-21 03:15:58	--	- | Powered by BSO Communication (http://www.bsocom.fr)
+2012-10-21 03:15:58	--	- -----------------------------------------------------------------------
+2012-10-21 03:15:58	--	End of /MOTD command.
+2012-10-21 03:15:58	--	CTCP requested by frbot: VERSION
+2012-10-21 03:15:58	--	CTCP reply to frbot: VERSION WeeChat 0.3.9 (Sep 30 2012)
+2012-10-21 03:16:12	--	irc: connected to irc.efnet.fr/6667 (194.126.217.2)
+2012-10-21 03:16:12	--	*** Processing connection to irc.efnet.fr
+2012-10-21 03:16:12	--	*** Looking up your hostname...
+2012-10-21 03:16:12	--	*** Checking Ident
+2012-10-21 03:16:12	--	*** Found your hostname
+2012-10-21 03:16:23	--	*** No Ident response
+2012-10-21 03:16:23	--	Welcome to the EFnet Internet Relay Chat Network Erebe
+2012-10-21 03:16:23	--	Your host is irc.efnet.fr[194.126.217.2/6667], running version ircd-ratbox-2.2.8
+2012-10-21 03:16:23	--	This server was created vendredi 20 f?vrier (UTC+0100) at 2009, 19:39:05
+2012-10-21 03:16:23	--	irc.efnet.fr ircd-ratbox-2.2.8 oiwszcerkfydnxbauglZCD biklmnopstveI bkloveI
+2012-10-21 03:16:23	--	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpst CHANLIMIT=&#:25 PREFIX=(ov)@+ MAXLIST=beI:100 NETWORK=EFnet MODES=4 STATUSMSG=@+ KNOCK CALLERID=g :are supported by this server
+2012-10-21 03:16:23	--	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=30 :are supported by this server
+2012-10-21 03:16:23	--	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2012-10-21 03:16:23	--	There are 7397 users and 27523 invisible on 37 servers
+2012-10-21 03:16:23	--	196 :IRC Operators online
+2012-10-21 03:16:23	--	1 :unknown connection(s)
+2012-10-21 03:16:23	--	17065 :channels formed
+2012-10-21 03:16:23	--	I have 231 clients and 1 servers
+2012-10-21 03:16:23	--	231 274 :Current local users 231, max 274
+2012-10-21 03:16:23	--	34920 36120 :Current global users 34920, max 36120
+2012-10-21 03:16:23	--	Highest connection count: 275 (274 clients) (16042 connections received)
+2012-10-21 03:16:23	--	- irc.efnet.fr Message of the Day -
+2012-10-21 03:16:23	--	- -----------------------------------------------------------------------
+2012-10-21 03:16:23	--	- |  _                    __             _        __       | Admins:
+2012-10-21 03:16:23	--	- | (_) _ _  __     ___  / _| _ _   ___ | |_     / _| _ _  |
+2012-10-21 03:16:23	--	- | | || '_|/ _| _ / -_)|  _|| ' \ / -_)|  _| _ |  _|| '_| | mo
+2012-10-21 03:16:23	--	- | |_||_|  \__|(_)\___||_|  |_||_|\___| \__|(_)|_|  |_|   | Grievah
+2012-10-21 03:16:23	--	- -----------------------------------------------------------------------
+2012-10-21 03:16:23	--	- |
+2012-10-21 03:16:23	--	- | Welcome.
+2012-10-21 03:16:23	--	- | This server is hosted by BSO Network Solutions (http://www.bsonetwork.com/)
+2012-10-21 03:16:23	--	- | in Paris, France.
+2012-10-21 03:16:23	--	- |
+2012-10-21 03:16:23	--	- | Connections.
+2012-10-21 03:16:23	--	- | If you have an issue connecting from a French ISP to this server,
+2012-10-21 03:16:23	--	- | please contact the admins.
+2012-10-21 03:16:23	--	- | You may connect to ports: 6667, 6668, 6669.
+2012-10-21 03:16:23	--	- |
+2012-10-21 03:16:23	--	- | Scanning.
+2012-10-21 03:16:23	--	- | This server runs a proxy scanner upon connect, for security purposes.
+2012-10-21 03:16:23	--	- | Your (or your organisation's) firewall may log attempted connections
+2012-10-21 03:16:23	--	- | to your TCP ports: 23, 80, 1080, 3128, 8080.
+2012-10-21 03:16:23	--	- | You should not be alarmed by these.
+2012-10-21 03:16:23	--	- |
+2012-10-21 03:16:23	--	- | Abuse.
+2012-10-21 03:16:23	--	- | Spambots, floodbots, warezbots will be klined on sight.
+2012-10-21 03:16:23	--	- | To report an abuse of a client on this server, please send logs to
+2012-10-21 03:16:23	--	- | the admins.
+2012-10-21 03:16:23	--	- | You may also locate an active oper using: /stats p irc.efnet.fr
+2012-10-21 03:16:23	--	- |
+2012-10-21 03:16:23	--	- | Connecting to this server is a priviledge offered by BSO Comm., not
+2012-10-21 03:16:23	--	- | a birth right. You may be banned without any further explanation, at
+2012-10-21 03:16:23	--	- | the discretion of this network's Operators.
+2012-10-21 03:16:23	--	- |
+2012-10-21 03:16:23	--	- | Contact.
+2012-10-21 03:16:23	--	- | Staff:         mo, Grievah, Linds, gre
+2012-10-21 03:16:23	--	- | Channel:       #fr-opers
+2012-10-21 03:16:23	--	- | Email:         ircadmin@efnet.fr
+2012-10-21 03:16:23	--	- |
+2012-10-21 03:16:23	--	- -----------------------------------------------------------------------
+2012-10-21 03:16:23	--	- | Current news.
+2012-10-21 03:16:23	--	- | Welcome :)
+2012-10-21 03:16:23	--	- |
+2012-10-21 03:16:23	--	- | Powered by BSO Communication (http://www.bsocom.fr)
+2012-10-21 03:16:23	--	- -----------------------------------------------------------------------
+2012-10-21 03:16:23	--	End of /MOTD command.
+2012-10-21 03:16:23	--	CTCP requested by frbot: VERSION
+2012-10-21 03:16:23	--	CTCP reply to frbot: VERSION WeeChat 0.3.9 (Sep 30 2012)
+2012-11-06 19:56:48	--	irc: connecté à irc.efnet.fr/6667 (194.126.217.2)
+2012-11-06 19:56:49	--	*** Processing connection to irc.efnet.fr
+2012-11-06 19:56:49	--	*** Looking up your hostname...
+2012-11-06 19:56:49	--	*** Checking Ident
+2012-11-06 19:56:49	--	*** Found your hostname
+2012-11-06 19:56:59	--	*** No Ident response
+2012-11-06 19:57:00	--	Welcome to the EFnet Internet Relay Chat Network Erebe
+2012-11-06 19:57:00	--	Your host is irc.efnet.fr[194.126.217.2/6667], running version ircd-ratbox-2.2.8
+2012-11-06 19:57:00	--	This server was created vendredi 20 février (UTC+0100) at 2009, 19:39:05
+2012-11-06 19:57:00	--	irc.efnet.fr ircd-ratbox-2.2.8 oiwszcerkfydnxbauglZCD biklmnopstveI bkloveI
+2012-11-06 19:57:00	--	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpst CHANLIMIT=&#:25 PREFIX=(ov)@+ MAXLIST=beI:100 NETWORK=EFnet MODES=4 STATUSMSG=@+ KNOCK CALLERID=g :are supported by this server
+2012-11-06 19:57:00	--	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=30 :are supported by this server
+2012-11-06 19:57:00	--	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2012-11-06 19:57:00	--	There are 7616 users and 28135 invisible on 38 servers
+2012-11-06 19:57:00	--	207 :IRC Operators online
+2012-11-06 19:57:00	--	1 :unknown connection(s)
+2012-11-06 19:57:00	--	17090 :channels formed
+2012-11-06 19:57:00	--	I have 227 clients and 1 servers
+2012-11-06 19:57:00	--	227 274 :Current local users 227, max 274
+2012-11-06 19:57:00	--	35751 36120 :Current global users 35751, max 36120
+2012-11-06 19:57:00	--	Highest connection count: 275 (274 clients) (17788 connections received)
+2012-11-06 19:57:00	--	- irc.efnet.fr Message of the Day -
+2012-11-06 19:57:00	--	- -----------------------------------------------------------------------
+2012-11-06 19:57:00	--	- |  _                    __             _        __       | Admins:
+2012-11-06 19:57:00	--	- | (_) _ _  __     ___  / _| _ _   ___ | |_     / _| _ _  |
+2012-11-06 19:57:00	--	- | | || '_|/ _| _ / -_)|  _|| ' \ / -_)|  _| _ |  _|| '_| | mo
+2012-11-06 19:57:00	--	- | |_||_|  \__|(_)\___||_|  |_||_|\___| \__|(_)|_|  |_|   | Grievah
+2012-11-06 19:57:00	--	- -----------------------------------------------------------------------
+2012-11-06 19:57:00	--	- |
+2012-11-06 19:57:00	--	- | Welcome.
+2012-11-06 19:57:00	--	- | This server is hosted by BSO Network Solutions (http://www.bsonetwork.com/)
+2012-11-06 19:57:00	--	- | in Paris, France.
+2012-11-06 19:57:00	--	- |
+2012-11-06 19:57:00	--	- | Connections.
+2012-11-06 19:57:00	--	- | If you have an issue connecting from a French ISP to this server,
+2012-11-06 19:57:00	--	- | please contact the admins.
+2012-11-06 19:57:00	--	- | You may connect to ports: 6667, 6668, 6669.
+2012-11-06 19:57:00	--	- |
+2012-11-06 19:57:00	--	- | Scanning.
+2012-11-06 19:57:00	--	- | This server runs a proxy scanner upon connect, for security purposes.
+2012-11-06 19:57:00	--	- | Your (or your organisation's) firewall may log attempted connections
+2012-11-06 19:57:00	--	- | to your TCP ports: 23, 80, 1080, 3128, 8080.
+2012-11-06 19:57:00	--	- | You should not be alarmed by these.
+2012-11-06 19:57:00	--	- |
+2012-11-06 19:57:00	--	- | Abuse.
+2012-11-06 19:57:00	--	- | Spambots, floodbots, warezbots will be klined on sight.
+2012-11-06 19:57:00	--	- | To report an abuse of a client on this server, please send logs to
+2012-11-06 19:57:00	--	- | the admins.
+2012-11-06 19:57:00	--	- | You may also locate an active oper using: /stats p irc.efnet.fr
+2012-11-06 19:57:00	--	- |
+2012-11-06 19:57:00	--	- | Connecting to this server is a priviledge offered by BSO Comm., not
+2012-11-06 19:57:00	--	- | a birth right. You may be banned without any further explanation, at
+2012-11-06 19:57:00	--	- | the discretion of this network's Operators.
+2012-11-06 19:57:00	--	- |
+2012-11-06 19:57:00	--	- | Contact.
+2012-11-06 19:57:00	--	- | Staff:         mo, Grievah, Linds, gre
+2012-11-06 19:57:00	--	- | Channel:       #fr-opers
+2012-11-06 19:57:00	--	- | Email:         ircadmin@efnet.fr
+2012-11-06 19:57:00	--	- |
+2012-11-06 19:57:00	--	- -----------------------------------------------------------------------
+2012-11-06 19:57:00	--	- | Current news.
+2012-11-06 19:57:00	--	- | Welcome :)
+2012-11-06 19:57:00	--	- |
+2012-11-06 19:57:00	--	- | Powered by BSO Communication (http://www.bsocom.fr)
+2012-11-06 19:57:00	--	- -----------------------------------------------------------------------
+2012-11-06 19:57:00	--	End of /MOTD command.
+2012-11-06 19:57:00	--	CTCP demandé par frbot: VERSION
+2012-11-06 19:57:00	--	Réponse CTCP vers frbot: VERSION WeeChat 0.3.9 (Sep 30 2012)
+2012-11-06 20:42:01	=!=	irc: lecture de données sur la socket: erreur 104 Connexion ré-initialisée par le correspondant
+2012-11-06 20:42:01	--	irc: déconnexion du serveur...
+2012-11-06 20:42:01	--	irc: déconnecté du serveur
+2012-11-06 20:42:01	--	irc: reconnexion au serveur dans 10 secondes
+2012-11-06 20:42:11	--	irc: reconnexion au serveur...
+2012-11-06 20:42:11	--	irc: connexion au serveur irc.efnet.fr/6667...
+2012-11-06 20:42:11	=!=	irc: adresse "irc.efnet.fr" non trouvée
+2012-11-06 20:42:11	=!=	irc: erreur: Nom ou service inconnu
+2012-11-06 20:42:11	--	irc: reconnexion au serveur dans 20 secondes
+2012-11-06 20:42:31	--	irc: reconnexion au serveur...
+2012-11-06 20:42:31	--	irc: connexion au serveur irc.efnet.fr/6667...
+2012-11-06 20:42:31	--	irc: connecté à irc.efnet.fr/6667 (194.126.217.2)
+2012-11-06 20:42:31	--	*** Processing connection to irc.efnet.fr
+2012-11-06 20:42:31	--	*** Looking up your hostname...
+2012-11-06 20:42:31	--	*** Checking Ident
+2012-11-06 20:42:31	--	*** Found your hostname
+2012-11-06 20:42:42	--	*** No Ident response
+2012-11-06 20:42:42	--	Welcome to the EFnet Internet Relay Chat Network Erebe
+2012-11-06 20:42:42	--	Your host is irc.efnet.fr[194.126.217.2/6667], running version ircd-ratbox-2.2.8
+2012-11-06 20:42:42	--	This server was created vendredi 20 février (UTC+0100) at 2009, 19:39:05
+2012-11-06 20:42:42	--	irc.efnet.fr ircd-ratbox-2.2.8 oiwszcerkfydnxbauglZCD biklmnopstveI bkloveI
+2012-11-06 20:42:42	--	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpst CHANLIMIT=&#:25 PREFIX=(ov)@+ MAXLIST=beI:100 NETWORK=EFnet MODES=4 STATUSMSG=@+ KNOCK CALLERID=g :are supported by this server
+2012-11-06 20:42:42	--	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=30 :are supported by this server
+2012-11-06 20:42:42	--	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2012-11-06 20:42:42	--	There are 7679 users and 28202 invisible on 38 servers
+2012-11-06 20:42:42	--	208 :IRC Operators online
+2012-11-06 20:42:42	--	17104 :channels formed
+2012-11-06 20:42:42	--	I have 230 clients and 1 servers
+2012-11-06 20:42:42	--	230 274 :Current local users 230, max 274
+2012-11-06 20:42:42	--	35881 36120 :Current global users 35881, max 36120
+2012-11-06 20:42:42	--	Highest connection count: 275 (274 clients) (17794 connections received)
+2012-11-06 20:42:42	--	- irc.efnet.fr Message of the Day -
+2012-11-06 20:42:42	--	- -----------------------------------------------------------------------
+2012-11-06 20:42:42	--	- |  _                    __             _        __       | Admins:
+2012-11-06 20:42:42	--	- | (_) _ _  __     ___  / _| _ _   ___ | |_     / _| _ _  |
+2012-11-06 20:42:42	--	- | | || '_|/ _| _ / -_)|  _|| ' \ / -_)|  _| _ |  _|| '_| | mo
+2012-11-06 20:42:42	--	- | |_||_|  \__|(_)\___||_|  |_||_|\___| \__|(_)|_|  |_|   | Grievah
+2012-11-06 20:42:42	--	- -----------------------------------------------------------------------
+2012-11-06 20:42:42	--	- |
+2012-11-06 20:42:42	--	- | Welcome.
+2012-11-06 20:42:42	--	- | This server is hosted by BSO Network Solutions (http://www.bsonetwork.com/)
+2012-11-06 20:42:42	--	- | in Paris, France.
+2012-11-06 20:42:42	--	- |
+2012-11-06 20:42:42	--	- | Connections.
+2012-11-06 20:42:42	--	- | If you have an issue connecting from a French ISP to this server,
+2012-11-06 20:42:42	--	- | please contact the admins.
+2012-11-06 20:42:42	--	- | You may connect to ports: 6667, 6668, 6669.
+2012-11-06 20:42:42	--	- |
+2012-11-06 20:42:42	--	- | Scanning.
+2012-11-06 20:42:42	--	- | This server runs a proxy scanner upon connect, for security purposes.
+2012-11-06 20:42:42	--	- | Your (or your organisation's) firewall may log attempted connections
+2012-11-06 20:42:42	--	- | to your TCP ports: 23, 80, 1080, 3128, 8080.
+2012-11-06 20:42:42	--	- | You should not be alarmed by these.
+2012-11-06 20:42:42	--	- |
+2012-11-06 20:42:42	--	- | Abuse.
+2012-11-06 20:42:42	--	- | Spambots, floodbots, warezbots will be klined on sight.
+2012-11-06 20:42:42	--	- | To report an abuse of a client on this server, please send logs to
+2012-11-06 20:42:42	--	- | the admins.
+2012-11-06 20:42:42	--	- | You may also locate an active oper using: /stats p irc.efnet.fr
+2012-11-06 20:42:42	--	- |
+2012-11-06 20:42:42	--	- | Connecting to this server is a priviledge offered by BSO Comm., not
+2012-11-06 20:42:42	--	- | a birth right. You may be banned without any further explanation, at
+2012-11-06 20:42:42	--	- | the discretion of this network's Operators.
+2012-11-06 20:42:42	--	- |
+2012-11-06 20:42:42	--	- | Contact.
+2012-11-06 20:42:42	--	- | Staff:         mo, Grievah, Linds, gre
+2012-11-06 20:42:42	--	- | Channel:       #fr-opers
+2012-11-06 20:42:42	--	- | Email:         ircadmin@efnet.fr
+2012-11-06 20:42:42	--	- |
+2012-11-06 20:42:42	--	- -----------------------------------------------------------------------
+2012-11-06 20:42:42	--	- | Current news.
+2012-11-06 20:42:42	--	- | Welcome :)
+2012-11-06 20:42:42	--	- |
+2012-11-06 20:42:42	--	- | Powered by BSO Communication (http://www.bsocom.fr)
+2012-11-06 20:42:42	--	- -----------------------------------------------------------------------
+2012-11-06 20:42:42	--	End of /MOTD command.
+2012-11-06 20:42:42	--	CTCP demandé par frbot: VERSION
+2012-11-06 20:42:42	--	Réponse CTCP vers frbot: VERSION WeeChat 0.3.9 (Sep 30 2012)
+2012-11-17 00:01:24	--	irc: connecté à irc.efnet.fr/6667 (194.126.217.2)
+2012-11-17 00:01:24	--	*** Processing connection to irc.efnet.fr
+2012-11-17 00:01:24	--	*** Looking up your hostname...
+2012-11-17 00:01:24	--	*** Checking Ident
+2012-11-17 00:01:24	--	*** Found your hostname
+2012-11-17 00:01:35	--	*** No Ident response
+2012-11-17 00:01:35	--	Welcome to the EFnet Internet Relay Chat Network Erebe
+2012-11-17 00:01:35	--	Your host is irc.efnet.fr[194.126.217.2/6667], running version ircd-ratbox-2.2.8
+2012-11-17 00:01:35	--	This server was created vendredi 20 février (UTC+0100) at 2009, 19:39:05
+2012-11-17 00:01:35	--	irc.efnet.fr ircd-ratbox-2.2.8 oiwszcerkfydnxbauglZCD biklmnopstveI bkloveI
+2012-11-17 00:01:35	--	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpst CHANLIMIT=&#:25 PREFIX=(ov)@+ MAXLIST=beI:100 NETWORK=EFnet MODES=4 STATUSMSG=@+ KNOCK CALLERID=g :are supported by this server
+2012-11-17 00:01:35	--	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=30 :are supported by this server
+2012-11-17 00:01:35	--	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2012-11-17 00:01:35	--	There are 7185 users and 27805 invisible on 36 servers
+2012-11-17 00:01:35	--	201 :IRC Operators online
+2012-11-17 00:01:35	--	17048 :channels formed
+2012-11-17 00:01:35	--	I have 230 clients and 1 servers
+2012-11-17 00:01:35	--	230 274 :Current local users 230, max 274
+2012-11-17 00:01:35	--	34990 36120 :Current global users 34990, max 36120
+2012-11-17 00:01:35	--	Highest connection count: 275 (274 clients) (18896 connections received)
+2012-11-17 00:01:35	--	- irc.efnet.fr Message of the Day -
+2012-11-17 00:01:35	--	- -----------------------------------------------------------------------
+2012-11-17 00:01:35	--	- |  _                    __             _        __       | Admins:
+2012-11-17 00:01:35	--	- | (_) _ _  __     ___  / _| _ _   ___ | |_     / _| _ _  |
+2012-11-17 00:01:35	--	- | | || '_|/ _| _ / -_)|  _|| ' \ / -_)|  _| _ |  _|| '_| | mo
+2012-11-17 00:01:35	--	- | |_||_|  \__|(_)\___||_|  |_||_|\___| \__|(_)|_|  |_|   | Grievah
+2012-11-17 00:01:35	--	- -----------------------------------------------------------------------
+2012-11-17 00:01:35	--	- |
+2012-11-17 00:01:35	--	- | Welcome.
+2012-11-17 00:01:35	--	- | This server is hosted by BSO Network Solutions (http://www.bsonetwork.com/)
+2012-11-17 00:01:35	--	- | in Paris, France.
+2012-11-17 00:01:35	--	- |
+2012-11-17 00:01:35	--	- | Connections.
+2012-11-17 00:01:35	--	- | If you have an issue connecting from a French ISP to this server,
+2012-11-17 00:01:35	--	- | please contact the admins.
+2012-11-17 00:01:35	--	- | You may connect to ports: 6667, 6668, 6669.
+2012-11-17 00:01:35	--	- |
+2012-11-17 00:01:35	--	- | Scanning.
+2012-11-17 00:01:35	--	- | This server runs a proxy scanner upon connect, for security purposes.
+2012-11-17 00:01:35	--	- | Your (or your organisation's) firewall may log attempted connections
+2012-11-17 00:01:35	--	- | to your TCP ports: 23, 80, 1080, 3128, 8080.
+2012-11-17 00:01:35	--	- | You should not be alarmed by these.
+2012-11-17 00:01:35	--	- |
+2012-11-17 00:01:35	--	- | Abuse.
+2012-11-17 00:01:35	--	- | Spambots, floodbots, warezbots will be klined on sight.
+2012-11-17 00:01:35	--	- | To report an abuse of a client on this server, please send logs to
+2012-11-17 00:01:35	--	- | the admins.
+2012-11-17 00:01:35	--	- | You may also locate an active oper using: /stats p irc.efnet.fr
+2012-11-17 00:01:35	--	- |
+2012-11-17 00:01:35	--	- | Connecting to this server is a priviledge offered by BSO Comm., not
+2012-11-17 00:01:35	--	- | a birth right. You may be banned without any further explanation, at
+2012-11-17 00:01:35	--	- | the discretion of this network's Operators.
+2012-11-17 00:01:35	--	- |
+2012-11-17 00:01:35	--	- | Contact.
+2012-11-17 00:01:35	--	- | Staff:         mo, Grievah, Linds, gre
+2012-11-17 00:01:35	--	- | Channel:       #fr-opers
+2012-11-17 00:01:35	--	- | Email:         ircadmin@efnet.fr
+2012-11-17 00:01:35	--	- |
+2012-11-17 00:01:35	--	- -----------------------------------------------------------------------
+2012-11-17 00:01:35	--	- | Current news.
+2012-11-17 00:01:35	--	- | Welcome :)
+2012-11-17 00:01:35	--	- |
+2012-11-17 00:01:35	--	- | Powered by BSO Communication (http://www.bsocom.fr)
+2012-11-17 00:01:35	--	- -----------------------------------------------------------------------
+2012-11-17 00:01:35	--	End of /MOTD command.
+2012-11-17 00:01:35	--	CTCP demandé par frbot: VERSION
+2012-11-17 00:01:35	--	Réponse CTCP vers frbot: VERSION WeeChat 0.3.9 (Sep 30 2012)
+2012-11-22 21:05:15	--	irc: connecté à irc.efnet.fr/6667 (194.126.217.2)
+2012-11-22 21:05:15	--	*** Processing connection to irc.efnet.fr
+2012-11-22 21:05:15	--	*** Looking up your hostname...
+2012-11-22 21:05:15	--	*** Checking Ident
+2012-11-22 21:05:15	--	*** Found your hostname
+2012-11-22 21:05:26	--	*** No Ident response
+2012-11-22 21:05:26	--	Welcome to the EFnet Internet Relay Chat Network Erebe
+2012-11-22 21:05:26	--	Your host is irc.efnet.fr[194.126.217.2/6667], running version ircd-ratbox-2.2.8
+2012-11-22 21:05:26	--	This server was created vendredi 20 février (UTC+0100) at 2009, 19:39:05
+2012-11-22 21:05:26	--	irc.efnet.fr ircd-ratbox-2.2.8 oiwszcerkfydnxbauglZCD biklmnopstveI bkloveI
+2012-11-22 21:05:26	--	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpst CHANLIMIT=&#:25 PREFIX=(ov)@+ MAXLIST=beI:100 NETWORK=EFnet MODES=4 STATUSMSG=@+ KNOCK CALLERID=g :are supported by this server
+2012-11-22 21:05:26	--	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=30 :are supported by this server
+2012-11-22 21:05:26	--	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2012-11-22 21:05:26	--	There are 7793 users and 27282 invisible on 36 servers
+2012-11-22 21:05:26	--	197 :IRC Operators online
+2012-11-22 21:05:26	--	16915 :channels formed
+2012-11-22 21:05:26	--	I have 258 clients and 1 servers
+2012-11-22 21:05:26	--	258 274 :Current local users 258, max 274
+2012-11-22 21:05:26	--	35075 36922 :Current global users 35075, max 36922
+2012-11-22 21:05:26	--	Highest connection count: 275 (274 clients) (19628 connections received)
+2012-11-22 21:05:26	--	- irc.efnet.fr Message of the Day -
+2012-11-22 21:05:26	--	- -----------------------------------------------------------------------
+2012-11-22 21:05:26	--	- |  _                    __             _        __       | Admins:
+2012-11-22 21:05:26	--	- | (_) _ _  __     ___  / _| _ _   ___ | |_     / _| _ _  |
+2012-11-22 21:05:26	--	- | | || '_|/ _| _ / -_)|  _|| ' \ / -_)|  _| _ |  _|| '_| | mo
+2012-11-22 21:05:26	--	- | |_||_|  \__|(_)\___||_|  |_||_|\___| \__|(_)|_|  |_|   | Grievah
+2012-11-22 21:05:26	--	- -----------------------------------------------------------------------
+2012-11-22 21:05:26	--	- |
+2012-11-22 21:05:26	--	- | Welcome.
+2012-11-22 21:05:26	--	- | This server is hosted by BSO Network Solutions (http://www.bsonetwork.com/)
+2012-11-22 21:05:26	--	- | in Paris, France.
+2012-11-22 21:05:26	--	- |
+2012-11-22 21:05:26	--	- | Connections.
+2012-11-22 21:05:26	--	- | If you have an issue connecting from a French ISP to this server,
+2012-11-22 21:05:26	--	- | please contact the admins.
+2012-11-22 21:05:26	--	- | You may connect to ports: 6667, 6668, 6669.
+2012-11-22 21:05:26	--	- |
+2012-11-22 21:05:26	--	- | Scanning.
+2012-11-22 21:05:26	--	- | This server runs a proxy scanner upon connect, for security purposes.
+2012-11-22 21:05:26	--	- | Your (or your organisation's) firewall may log attempted connections
+2012-11-22 21:05:26	--	- | to your TCP ports: 23, 80, 1080, 3128, 8080.
+2012-11-22 21:05:26	--	- | You should not be alarmed by these.
+2012-11-22 21:05:26	--	- |
+2012-11-22 21:05:26	--	- | Abuse.
+2012-11-22 21:05:26	--	- | Spambots, floodbots, warezbots will be klined on sight.
+2012-11-22 21:05:26	--	- | To report an abuse of a client on this server, please send logs to
+2012-11-22 21:05:26	--	- | the admins.
+2012-11-22 21:05:26	--	- | You may also locate an active oper using: /stats p irc.efnet.fr
+2012-11-22 21:05:26	--	- |
+2012-11-22 21:05:26	--	- | Connecting to this server is a priviledge offered by BSO Comm., not
+2012-11-22 21:05:26	--	- | a birth right. You may be banned without any further explanation, at
+2012-11-22 21:05:26	--	- | the discretion of this network's Operators.
+2012-11-22 21:05:26	--	- |
+2012-11-22 21:05:26	--	- | Contact.
+2012-11-22 21:05:26	--	- | Staff:         mo, Grievah, Linds, gre
+2012-11-22 21:05:26	--	- | Channel:       #fr-opers
+2012-11-22 21:05:26	--	- | Email:         ircadmin@efnet.fr
+2012-11-22 21:05:26	--	- |
+2012-11-22 21:05:26	--	- -----------------------------------------------------------------------
+2012-11-22 21:05:26	--	- | Current news.
+2012-11-22 21:05:26	--	- | Welcome :)
+2012-11-22 21:05:26	--	- |
+2012-11-22 21:05:26	--	- | Powered by BSO Communication (http://www.bsocom.fr)
+2012-11-22 21:05:26	--	- -----------------------------------------------------------------------
+2012-11-22 21:05:26	--	End of /MOTD command.
+2012-11-22 21:05:26	--	CTCP demandé par frbot: VERSION
+2012-11-22 21:05:26	--	Réponse CTCP vers frbot: VERSION WeeChat 0.3.9 (Sep 30 2012)
+2012-11-22 21:16:57	--	irc: connecté à irc.efnet.fr/6667 (194.126.217.2)
+2012-11-22 21:16:57	--	*** Processing connection to irc.efnet.fr
+2012-11-22 21:16:57	--	*** Looking up your hostname...
+2012-11-22 21:16:57	--	*** Checking Ident
+2012-11-22 21:16:57	--	*** Found your hostname
+2012-11-22 21:17:08	--	*** No Ident response
+2012-11-22 21:17:08	--	Welcome to the EFnet Internet Relay Chat Network Erebe
+2012-11-22 21:17:08	--	Your host is irc.efnet.fr[194.126.217.2/6667], running version ircd-ratbox-2.2.8
+2012-11-22 21:17:08	--	This server was created vendredi 20 février (UTC+0100) at 2009, 19:39:05
+2012-11-22 21:17:08	--	irc.efnet.fr ircd-ratbox-2.2.8 oiwszcerkfydnxbauglZCD biklmnopstveI bkloveI
+2012-11-22 21:17:08	--	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpst CHANLIMIT=&#:25 PREFIX=(ov)@+ MAXLIST=beI:100 NETWORK=EFnet MODES=4 STATUSMSG=@+ KNOCK CALLERID=g :are supported by this server
+2012-11-22 21:17:08	--	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=30 :are supported by this server
+2012-11-22 21:17:08	--	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2012-11-22 21:17:08	--	There are 7786 users and 27283 invisible on 36 servers
+2012-11-22 21:17:08	--	197 :IRC Operators online
+2012-11-22 21:17:08	--	16921 :channels formed
+2012-11-22 21:17:08	--	I have 258 clients and 1 servers
+2012-11-22 21:17:08	--	258 274 :Current local users 258, max 274
+2012-11-22 21:17:08	--	35069 36922 :Current global users 35069, max 36922
+2012-11-22 21:17:08	--	Highest connection count: 275 (274 clients) (19631 connections received)
+2012-11-22 21:17:08	--	- irc.efnet.fr Message of the Day -
+2012-11-22 21:17:08	--	- -----------------------------------------------------------------------
+2012-11-22 21:17:08	--	- |  _                    __             _        __       | Admins:
+2012-11-22 21:17:08	--	- | (_) _ _  __     ___  / _| _ _   ___ | |_     / _| _ _  |
+2012-11-22 21:17:08	--	- | | || '_|/ _| _ / -_)|  _|| ' \ / -_)|  _| _ |  _|| '_| | mo
+2012-11-22 21:17:08	--	- | |_||_|  \__|(_)\___||_|  |_||_|\___| \__|(_)|_|  |_|   | Grievah
+2012-11-22 21:17:08	--	- -----------------------------------------------------------------------
+2012-11-22 21:17:08	--	- |
+2012-11-22 21:17:08	--	- | Welcome.
+2012-11-22 21:17:08	--	- | This server is hosted by BSO Network Solutions (http://www.bsonetwork.com/)
+2012-11-22 21:17:08	--	- | in Paris, France.
+2012-11-22 21:17:08	--	- |
+2012-11-22 21:17:08	--	- | Connections.
+2012-11-22 21:17:08	--	- | If you have an issue connecting from a French ISP to this server,
+2012-11-22 21:17:08	--	- | please contact the admins.
+2012-11-22 21:17:08	--	- | You may connect to ports: 6667, 6668, 6669.
+2012-11-22 21:17:08	--	- |
+2012-11-22 21:17:08	--	- | Scanning.
+2012-11-22 21:17:08	--	- | This server runs a proxy scanner upon connect, for security purposes.
+2012-11-22 21:17:08	--	- | Your (or your organisation's) firewall may log attempted connections
+2012-11-22 21:17:08	--	- | to your TCP ports: 23, 80, 1080, 3128, 8080.
+2012-11-22 21:17:08	--	- | You should not be alarmed by these.
+2012-11-22 21:17:08	--	- |
+2012-11-22 21:17:08	--	- | Abuse.
+2012-11-22 21:17:08	--	- | Spambots, floodbots, warezbots will be klined on sight.
+2012-11-22 21:17:08	--	- | To report an abuse of a client on this server, please send logs to
+2012-11-22 21:17:08	--	- | the admins.
+2012-11-22 21:17:08	--	- | You may also locate an active oper using: /stats p irc.efnet.fr
+2012-11-22 21:17:08	--	- |
+2012-11-22 21:17:08	--	- | Connecting to this server is a priviledge offered by BSO Comm., not
+2012-11-22 21:17:08	--	- | a birth right. You may be banned without any further explanation, at
+2012-11-22 21:17:08	--	- | the discretion of this network's Operators.
+2012-11-22 21:17:08	--	- |
+2012-11-22 21:17:08	--	- | Contact.
+2012-11-22 21:17:08	--	- | Staff:         mo, Grievah, Linds, gre
+2012-11-22 21:17:08	--	- | Channel:       #fr-opers
+2012-11-22 21:17:08	--	- | Email:         ircadmin@efnet.fr
+2012-11-22 21:17:08	--	- |
+2012-11-22 21:17:08	--	- -----------------------------------------------------------------------
+2012-11-22 21:17:08	--	- | Current news.
+2012-11-22 21:17:08	--	- | Welcome :)
+2012-11-22 21:17:08	--	- |
+2012-11-22 21:17:08	--	- | Powered by BSO Communication (http://www.bsocom.fr)
+2012-11-22 21:17:08	--	- -----------------------------------------------------------------------
+2012-11-22 21:17:08	--	End of /MOTD command.
+2012-11-22 21:17:08	--	CTCP demandé par frbot: VERSION
+2012-11-22 21:17:08	--	Réponse CTCP vers frbot: VERSION WeeChat 0.3.9 (Sep 30 2012)
+2012-11-22 21:33:16	--	irc: connecté à irc.efnet.fr/6667 (194.126.217.2)
+2012-11-22 21:33:16	--	*** Processing connection to irc.efnet.fr
+2012-11-22 21:33:16	--	*** Looking up your hostname...
+2012-11-22 21:33:16	--	*** Checking Ident
+2012-11-22 21:33:16	--	*** Found your hostname
+2012-11-22 21:33:46	--	irc: connecté à irc.efnet.fr/6667 (194.126.217.2)
+2012-11-22 21:33:46	--	*** Processing connection to irc.efnet.fr
+2012-11-22 21:33:46	--	*** Looking up your hostname...
+2012-11-22 21:33:46	--	*** Checking Ident
+2012-11-22 21:33:46	--	*** Found your hostname

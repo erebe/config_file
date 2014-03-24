@@ -1,0 +1,468 @@
+2012-10-21 03:15:48	--	irc: connected to irc.mozilla.org/6667 (63.245.212.23)
+2012-10-21 03:15:48	--	gravel.mozilla.org (gravel.mozilla.org): *** Looking up your hostname...
+2012-10-21 03:15:48	--	gravel.mozilla.org (gravel.mozilla.org): *** Found your hostname
+2012-10-21 03:15:49	--	Welcome to the Mozilla IRC Network Erebe!Erebe@acces1422.res.insa-lyon.fr
+2012-10-21 03:15:49	--	Your host is gravel.mozilla.org, running version Unreal3.2.8
+2012-10-21 03:15:49	--	This server was created Tue Mar 31 2009 at 20:07:55 PDT
+2012-10-21 03:15:49	--	gravel.mozilla.org Unreal3.2.8 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+2012-10-21 03:15:49	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=75 CHANLIMIT=#:75 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2012-10-21 03:15:49	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(ohv)@%+ CHANMODES=beIqa,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mozilla CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+2012-10-21 03:15:49	--	STATUSMSG=@%+ EXCEPTS INVEX :are supported by this server
+2012-10-21 03:15:49	--	There are 16 users and 1640 invisible on 3 servers
+2012-10-21 03:15:49	--	19 :operator(s) online
+2012-10-21 03:15:49	--	649 :channels formed
+2012-10-21 03:15:49	--	I have 703 clients and 1 servers
+2012-10-21 03:15:49	--	Current Local Users: 703  Max: 1894
+2012-10-21 03:15:49	--	Current Global Users: 1656  Max: 2387
+2012-10-21 03:15:49	--	- gravel.mozilla.org Message of the Day -
+2012-10-21 03:15:49	--	- 30/1/2012 10:07
+2012-10-21 03:15:49	--	- oOo.o.oo.oO.oOO..OoOo. _ .OoOoo...
+2012-10-21 03:15:49	--	-  __ _ _ _ __ ___ _____| | oOo.o.oo...
+2012-10-21 03:15:49	--	- / _` | '_/ _` \ V / -_) | o.o.oooOo..oo
+2012-10-21 03:15:49	--	- \__, |_| \__,_|\_/\___|_| o.ooOo.oooO..ooooo
+2012-10-21 03:15:49	--	- |___/  .o.ooo...o.oo...ooo.o.oo.oooOOO.oOOOo.o
+2012-10-21 03:15:49	--	- ..oo.o.oOOO.oo.ooOOO.o.o.OOOooooOOOO....oOoOOOooooOO
+2012-10-21 03:15:49	--	-                  M O Z I L L A   D O T   O R G
+2012-10-21 03:15:49	--	-                     http://www.mozilla.org/
+2012-10-21 03:15:49	--	-
+2012-10-21 03:15:49	--	- =================================================================
+2012-10-21 03:15:49	--	-  This server is for use by Mozilla developers, testers, and
+2012-10-21 03:15:49	--	-  users. If you are not one, please find another server.
+2012-10-21 03:15:49	--	-
+2012-10-21 03:15:49	--	-  NOTICE: Your IP address will be portscanned by our open
+2012-10-21 03:15:49	--	-  proxy tester.  See http://irc.mozilla.org/ for details.
+2012-10-21 03:15:49	--	-
+2012-10-21 03:15:49	--	- =================================================================
+2012-10-21 03:15:49	--	- Project information:
+2012-10-21 03:15:49	--	-  Firefox       #firefox     http://support.mozilla.org
+2012-10-21 03:15:49	--	-  Mobile        #mobile      http://support.mozilla.org/mobile
+2012-10-21 03:15:49	--	-  Thunderbird   #thunderbird http://support.mozillamessaging.com
+2012-10-21 03:15:49	--	-
+2012-10-21 03:15:49	--	- Help for new contributors:
+2012-10-21 03:15:49	--	-    #introduction     http://developer.mozilla.org/En/Introduction
+2012-10-21 03:15:49	--	- =================================================================
+2012-10-21 03:15:49	--	-
+2012-10-21 03:15:49	--	-  For a list of other helpful channels please visit
+2012-10-21 03:15:49	--	-  http://irc.mozilla.org/ or use the /list command.
+2012-10-21 03:15:49	--	-  Additional help with IRC at http://www.irchelp.org/
+2012-10-21 03:15:49	--	End of /MOTD command.
+2012-10-21 03:15:49	--	User mode [+ix] by Erebe
+2012-10-21 03:15:49	--	ChanServ (services@mozilla.org): [#frenchmoz] Bienvenue sur le canal de la communaut? francophone de Mozilla. Ce canal utilise l'encodage UTF-8. Pour de l'aide sur l'utilisation de Firefox, Thunderbird, etc. visitez http://www.geckozone.org/
+2012-10-21 03:16:12	--	irc: connected to irc.mozilla.org/6667 (63.245.212.23)
+2012-10-21 03:16:12	--	gravel.mozilla.org (gravel.mozilla.org): *** Looking up your hostname...
+2012-10-21 03:16:12	--	gravel.mozilla.org (gravel.mozilla.org): *** Found your hostname (cached)
+2012-10-21 03:16:12	--	Welcome to the Mozilla IRC Network Erebe!Erebe@acces1422.res.insa-lyon.fr
+2012-10-21 03:16:12	--	Your host is gravel.mozilla.org, running version Unreal3.2.8
+2012-10-21 03:16:12	--	This server was created Tue Mar 31 2009 at 20:07:55 PDT
+2012-10-21 03:16:12	--	gravel.mozilla.org Unreal3.2.8 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+2012-10-21 03:16:12	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=75 CHANLIMIT=#:75 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2012-10-21 03:16:12	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(ohv)@%+ CHANMODES=beIqa,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mozilla CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+2012-10-21 03:16:12	--	STATUSMSG=@%+ EXCEPTS INVEX :are supported by this server
+2012-10-21 03:16:12	--	There are 16 users and 1641 invisible on 3 servers
+2012-10-21 03:16:13	--	19 :operator(s) online
+2012-10-21 03:16:13	--	1 :unknown connection(s)
+2012-10-21 03:16:13	--	649 :channels formed
+2012-10-21 03:16:13	--	I have 704 clients and 1 servers
+2012-10-21 03:16:13	--	Current Local Users: 704  Max: 1894
+2012-10-21 03:16:13	--	Current Global Users: 1657  Max: 2387
+2012-10-21 03:16:13	--	- gravel.mozilla.org Message of the Day -
+2012-10-21 03:16:13	--	- 30/1/2012 10:07
+2012-10-21 03:16:13	--	- oOo.o.oo.oO.oOO..OoOo. _ .OoOoo...
+2012-10-21 03:16:13	--	-  __ _ _ _ __ ___ _____| | oOo.o.oo...
+2012-10-21 03:16:13	--	- / _` | '_/ _` \ V / -_) | o.o.oooOo..oo
+2012-10-21 03:16:13	--	- \__, |_| \__,_|\_/\___|_| o.ooOo.oooO..ooooo
+2012-10-21 03:16:13	--	- |___/  .o.ooo...o.oo...ooo.o.oo.oooOOO.oOOOo.o
+2012-10-21 03:16:13	--	- ..oo.o.oOOO.oo.ooOOO.o.o.OOOooooOOOO....oOoOOOooooOO
+2012-10-21 03:16:13	--	-                  M O Z I L L A   D O T   O R G
+2012-10-21 03:16:13	--	-                     http://www.mozilla.org/
+2012-10-21 03:16:13	--	-
+2012-10-21 03:16:13	--	- =================================================================
+2012-10-21 03:16:13	--	-  This server is for use by Mozilla developers, testers, and
+2012-10-21 03:16:13	--	-  users. If you are not one, please find another server.
+2012-10-21 03:16:13	--	-
+2012-10-21 03:16:13	--	-  NOTICE: Your IP address will be portscanned by our open
+2012-10-21 03:16:13	--	-  proxy tester.  See http://irc.mozilla.org/ for details.
+2012-10-21 03:16:13	--	-
+2012-10-21 03:16:13	--	- =================================================================
+2012-10-21 03:16:13	--	- Project information:
+2012-10-21 03:16:13	--	-  Firefox       #firefox     http://support.mozilla.org
+2012-10-21 03:16:13	--	-  Mobile        #mobile      http://support.mozilla.org/mobile
+2012-10-21 03:16:13	--	-  Thunderbird   #thunderbird http://support.mozillamessaging.com
+2012-10-21 03:16:13	--	-
+2012-10-21 03:16:13	--	- Help for new contributors:
+2012-10-21 03:16:13	--	-    #introduction     http://developer.mozilla.org/En/Introduction
+2012-10-21 03:16:13	--	- =================================================================
+2012-10-21 03:16:13	--	-
+2012-10-21 03:16:13	--	-  For a list of other helpful channels please visit
+2012-10-21 03:16:13	--	-  http://irc.mozilla.org/ or use the /list command.
+2012-10-21 03:16:13	--	-  Additional help with IRC at http://www.irchelp.org/
+2012-10-21 03:16:13	--	End of /MOTD command.
+2012-10-21 03:16:13	--	User mode [+ix] by Erebe
+2012-10-21 03:16:13	--	ChanServ (services@mozilla.org): [#frenchmoz] Bienvenue sur le canal de la communaut? francophone de Mozilla. Ce canal utilise l'encodage UTF-8. Pour de l'aide sur l'utilisation de Firefox, Thunderbird, etc. visitez http://www.geckozone.org/
+2012-11-06 19:56:49	--	irc: connecté à irc.mozilla.org/6667 (63.245.212.23)
+2012-11-06 19:56:49	--	gravel.mozilla.org (gravel.mozilla.org): *** Looking up your hostname...
+2012-11-06 19:56:49	--	gravel.mozilla.org (gravel.mozilla.org): *** Found your hostname
+2012-11-06 19:56:49	--	Welcome to the Mozilla IRC Network Erebe!Erebe@eduroinsa912.insa-lyon.fr
+2012-11-06 19:56:49	--	Your host is gravel.mozilla.org, running version Unreal3.2.8
+2012-11-06 19:56:49	--	This server was created Tue Mar 31 2009 at 20:07:55 PDT
+2012-11-06 19:56:49	--	gravel.mozilla.org Unreal3.2.8 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+2012-11-06 19:56:49	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=75 CHANLIMIT=#:75 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2012-11-06 19:56:49	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(ohv)@%+ CHANMODES=beIqa,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mozilla CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+2012-11-06 19:56:49	--	STATUSMSG=@%+ EXCEPTS INVEX :are supported by this server
+2012-11-06 19:56:49	--	There are 15 users and 2195 invisible on 3 servers
+2012-11-06 19:56:49	--	19 :operator(s) online
+2012-11-06 19:56:49	--	707 :channels formed
+2012-11-06 19:56:49	--	I have 897 clients and 1 servers
+2012-11-06 19:56:49	--	Current Local Users: 897  Max: 1894
+2012-11-06 19:56:49	--	Current Global Users: 2210  Max: 2387
+2012-11-06 19:56:49	--	- gravel.mozilla.org Message of the Day -
+2012-11-06 19:56:49	--	- 30/1/2012 10:07
+2012-11-06 19:56:49	--	- oOo.o.oo.oO.oOO..OoOo. _ .OoOoo...
+2012-11-06 19:56:49	--	-  __ _ _ _ __ ___ _____| | oOo.o.oo...
+2012-11-06 19:56:49	--	- / _` | '_/ _` \ V / -_) | o.o.oooOo..oo
+2012-11-06 19:56:49	--	- \__, |_| \__,_|\_/\___|_| o.ooOo.oooO..ooooo
+2012-11-06 19:56:49	--	- |___/  .o.ooo...o.oo...ooo.o.oo.oooOOO.oOOOo.o
+2012-11-06 19:56:49	--	- ..oo.o.oOOO.oo.ooOOO.o.o.OOOooooOOOO....oOoOOOooooOO
+2012-11-06 19:56:49	--	-                  M O Z I L L A   D O T   O R G
+2012-11-06 19:56:49	--	-                     http://www.mozilla.org/
+2012-11-06 19:56:49	--	-
+2012-11-06 19:56:49	--	- =================================================================
+2012-11-06 19:56:49	--	-  This server is for use by Mozilla developers, testers, and
+2012-11-06 19:56:49	--	-  users. If you are not one, please find another server.
+2012-11-06 19:56:49	--	-
+2012-11-06 19:56:49	--	-  NOTICE: Your IP address will be portscanned by our open
+2012-11-06 19:56:49	--	-  proxy tester.  See http://irc.mozilla.org/ for details.
+2012-11-06 19:56:49	--	-
+2012-11-06 19:56:49	--	- =================================================================
+2012-11-06 19:56:49	--	- Project information:
+2012-11-06 19:56:49	--	-  Firefox       #firefox     http://support.mozilla.org
+2012-11-06 19:56:49	--	-  Mobile        #mobile      http://support.mozilla.org/mobile
+2012-11-06 19:56:49	--	-  Thunderbird   #thunderbird http://support.mozillamessaging.com
+2012-11-06 19:56:49	--	-
+2012-11-06 19:56:49	--	- Help for new contributors:
+2012-11-06 19:56:49	--	-    #introduction     http://developer.mozilla.org/En/Introduction
+2012-11-06 19:56:49	--	- =================================================================
+2012-11-06 19:56:49	--	-
+2012-11-06 19:56:49	--	-  For a list of other helpful channels please visit
+2012-11-06 19:56:49	--	-  http://irc.mozilla.org/ or use the /list command.
+2012-11-06 19:56:49	--	-  Additional help with IRC at http://www.irchelp.org/
+2012-11-06 19:56:49	--	End of /MOTD command.
+2012-11-06 19:56:49	--	Mode utilisateur [+ix] par Erebe
+2012-11-06 19:56:50	--	ChanServ (services@mozilla.org): [#frenchmoz] Bienvenue sur le canal de la communauté francophone de Mozilla. Ce canal utilise l'encodage UTF-8. Pour de l'aide sur l'utilisation de Firefox, Thunderbird, etc. visitez http://www.geckozone.org/
+2012-11-06 20:42:01	=!=	irc: lecture de données sur la socket: erreur 104 Connexion ré-initialisée par le correspondant
+2012-11-06 20:42:01	--	irc: déconnexion du serveur...
+2012-11-06 20:42:01	--	irc: déconnecté du serveur
+2012-11-06 20:42:01	--	irc: reconnexion au serveur dans 10 secondes
+2012-11-06 20:42:11	--	irc: reconnexion au serveur...
+2012-11-06 20:42:11	--	irc: connexion au serveur irc.mozilla.org/6667...
+2012-11-06 20:42:11	=!=	irc: adresse "irc.mozilla.org" non trouvée
+2012-11-06 20:42:11	=!=	irc: erreur: Nom ou service inconnu
+2012-11-06 20:42:11	--	irc: reconnexion au serveur dans 20 secondes
+2012-11-06 20:42:31	--	irc: reconnexion au serveur...
+2012-11-06 20:42:31	--	irc: connexion au serveur irc.mozilla.org/6667...
+2012-11-06 20:42:31	--	irc: connecté à irc.mozilla.org/6667 (63.245.212.23)
+2012-11-06 20:42:31	--	gravel.mozilla.org (gravel.mozilla.org): *** Looking up your hostname...
+2012-11-06 20:42:32	--	gravel.mozilla.org (gravel.mozilla.org): *** Found your hostname
+2012-11-06 20:42:32	--	Welcome to the Mozilla IRC Network Erebe!Erebe@if-tempo08.insa-lyon.fr
+2012-11-06 20:42:32	--	Your host is gravel.mozilla.org, running version Unreal3.2.8
+2012-11-06 20:42:32	--	This server was created Tue Mar 31 2009 at 20:07:55 PDT
+2012-11-06 20:42:32	--	gravel.mozilla.org Unreal3.2.8 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+2012-11-06 20:42:32	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=75 CHANLIMIT=#:75 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2012-11-06 20:42:32	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(ohv)@%+ CHANMODES=beIqa,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mozilla CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+2012-11-06 20:42:32	--	STATUSMSG=@%+ EXCEPTS INVEX :are supported by this server
+2012-11-06 20:42:32	--	There are 15 users and 2203 invisible on 3 servers
+2012-11-06 20:42:32	--	19 :operator(s) online
+2012-11-06 20:42:32	--	3 :unknown connection(s)
+2012-11-06 20:42:32	--	704 :channels formed
+2012-11-06 20:42:32	--	I have 879 clients and 1 servers
+2012-11-06 20:42:32	--	Current Local Users: 879  Max: 1894
+2012-11-06 20:42:32	--	Current Global Users: 2218  Max: 2387
+2012-11-06 20:42:32	--	- gravel.mozilla.org Message of the Day -
+2012-11-06 20:42:32	--	- 30/1/2012 10:07
+2012-11-06 20:42:32	--	- oOo.o.oo.oO.oOO..OoOo. _ .OoOoo...
+2012-11-06 20:42:32	--	-  __ _ _ _ __ ___ _____| | oOo.o.oo...
+2012-11-06 20:42:32	--	- / _` | '_/ _` \ V / -_) | o.o.oooOo..oo
+2012-11-06 20:42:32	--	- \__, |_| \__,_|\_/\___|_| o.ooOo.oooO..ooooo
+2012-11-06 20:42:32	--	- |___/  .o.ooo...o.oo...ooo.o.oo.oooOOO.oOOOo.o
+2012-11-06 20:42:32	--	- ..oo.o.oOOO.oo.ooOOO.o.o.OOOooooOOOO....oOoOOOooooOO
+2012-11-06 20:42:32	--	-                  M O Z I L L A   D O T   O R G
+2012-11-06 20:42:32	--	-                     http://www.mozilla.org/
+2012-11-06 20:42:32	--	-
+2012-11-06 20:42:32	--	- =================================================================
+2012-11-06 20:42:32	--	-  This server is for use by Mozilla developers, testers, and
+2012-11-06 20:42:32	--	-  users. If you are not one, please find another server.
+2012-11-06 20:42:32	--	-
+2012-11-06 20:42:32	--	-  NOTICE: Your IP address will be portscanned by our open
+2012-11-06 20:42:32	--	-  proxy tester.  See http://irc.mozilla.org/ for details.
+2012-11-06 20:42:32	--	-
+2012-11-06 20:42:32	--	- =================================================================
+2012-11-06 20:42:32	--	- Project information:
+2012-11-06 20:42:32	--	-  Firefox       #firefox     http://support.mozilla.org
+2012-11-06 20:42:32	--	-  Mobile        #mobile      http://support.mozilla.org/mobile
+2012-11-06 20:42:32	--	-  Thunderbird   #thunderbird http://support.mozillamessaging.com
+2012-11-06 20:42:32	--	-
+2012-11-06 20:42:32	--	- Help for new contributors:
+2012-11-06 20:42:32	--	-    #introduction     http://developer.mozilla.org/En/Introduction
+2012-11-06 20:42:32	--	- =================================================================
+2012-11-06 20:42:32	--	-
+2012-11-06 20:42:32	--	-  For a list of other helpful channels please visit
+2012-11-06 20:42:32	--	-  http://irc.mozilla.org/ or use the /list command.
+2012-11-06 20:42:32	--	-  Additional help with IRC at http://www.irchelp.org/
+2012-11-06 20:42:32	--	End of /MOTD command.
+2012-11-06 20:42:32	--	Mode utilisateur [+ix] par Erebe
+2012-11-06 20:42:32	--	ChanServ (services@mozilla.org): [#frenchmoz] Bienvenue sur le canal de la communauté francophone de Mozilla. Ce canal utilise l'encodage UTF-8. Pour de l'aide sur l'utilisation de Firefox, Thunderbird, etc. visitez http://www.geckozone.org/
+2012-11-17 00:01:24	--	irc: connecté à irc.mozilla.org/6667 (63.245.212.23)
+2012-11-17 00:01:24	--	gravel.mozilla.org (gravel.mozilla.org): *** Looking up your hostname...
+2012-11-17 00:01:24	--	gravel.mozilla.org (gravel.mozilla.org): *** Found your hostname
+2012-11-17 00:01:24	--	Welcome to the Mozilla IRC Network Erebe!Erebe@if-tempo08.insa-lyon.fr
+2012-11-17 00:01:24	--	Your host is gravel.mozilla.org, running version Unreal3.2.8
+2012-11-17 00:01:24	--	This server was created Tue Mar 31 2009 at 20:07:55 PDT
+2012-11-17 00:01:24	--	gravel.mozilla.org Unreal3.2.8 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+2012-11-17 00:01:24	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=100 CHANLIMIT=#:100 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2012-11-17 00:01:24	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(ohv)@%+ CHANMODES=beIqa,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mozilla CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+2012-11-17 00:01:24	--	STATUSMSG=@%+ EXCEPTS INVEX :are supported by this server
+2012-11-17 00:01:24	--	There are 16 users and 1945 invisible on 3 servers
+2012-11-17 00:01:24	--	18 :operator(s) online
+2012-11-17 00:01:24	--	3 :unknown connection(s)
+2012-11-17 00:01:24	--	679 :channels formed
+2012-11-17 00:01:24	--	I have 787 clients and 1 servers
+2012-11-17 00:01:24	--	Current Local Users: 787  Max: 1894
+2012-11-17 00:01:24	--	Current Global Users: 1961  Max: 2387
+2012-11-17 00:01:24	--	- gravel.mozilla.org Message of the Day -
+2012-11-17 00:01:24	--	- 30/1/2012 10:07
+2012-11-17 00:01:24	--	- oOo.o.oo.oO.oOO..OoOo. _ .OoOoo...
+2012-11-17 00:01:24	--	-  __ _ _ _ __ ___ _____| | oOo.o.oo...
+2012-11-17 00:01:24	--	- / _` | '_/ _` \ V / -_) | o.o.oooOo..oo
+2012-11-17 00:01:24	--	- \__, |_| \__,_|\_/\___|_| o.ooOo.oooO..ooooo
+2012-11-17 00:01:24	--	- |___/  .o.ooo...o.oo...ooo.o.oo.oooOOO.oOOOo.o
+2012-11-17 00:01:24	--	- ..oo.o.oOOO.oo.ooOOO.o.o.OOOooooOOOO....oOoOOOooooOO
+2012-11-17 00:01:24	--	-                  M O Z I L L A   D O T   O R G
+2012-11-17 00:01:24	--	-                     http://www.mozilla.org/
+2012-11-17 00:01:24	--	-
+2012-11-17 00:01:24	--	- =================================================================
+2012-11-17 00:01:24	--	-  This server is for use by Mozilla developers, testers, and
+2012-11-17 00:01:24	--	-  users. If you are not one, please find another server.
+2012-11-17 00:01:24	--	-
+2012-11-17 00:01:24	--	-  NOTICE: Your IP address will be portscanned by our open
+2012-11-17 00:01:24	--	-  proxy tester.  See http://irc.mozilla.org/ for details.
+2012-11-17 00:01:24	--	-
+2012-11-17 00:01:24	--	- =================================================================
+2012-11-17 00:01:24	--	- Project information:
+2012-11-17 00:01:24	--	-  Firefox       #firefox     http://support.mozilla.org
+2012-11-17 00:01:24	--	-  Mobile        #mobile      http://support.mozilla.org/mobile
+2012-11-17 00:01:24	--	-  Thunderbird   #thunderbird http://support.mozillamessaging.com
+2012-11-17 00:01:24	--	-
+2012-11-17 00:01:24	--	- Help for new contributors:
+2012-11-17 00:01:24	--	-    #introduction     http://developer.mozilla.org/En/Introduction
+2012-11-17 00:01:24	--	- =================================================================
+2012-11-17 00:01:24	--	-
+2012-11-17 00:01:24	--	-  For a list of other helpful channels please visit
+2012-11-17 00:01:24	--	-  http://irc.mozilla.org/ or use the /list command.
+2012-11-17 00:01:24	--	-  Additional help with IRC at http://www.irchelp.org/
+2012-11-17 00:01:24	--	End of /MOTD command.
+2012-11-17 00:01:24	--	Mode utilisateur [+ix] par Erebe
+2012-11-17 00:01:24	--	ChanServ (services@mozilla.org): [#frenchmoz] Bienvenue sur le canal de la communauté francophone de Mozilla. Ce canal utilise l'encodage UTF-8. Pour de l'aide sur l'utilisation de Firefox, Thunderbird, etc. visitez http://www.geckozone.org/
+2012-11-17 00:02:31	=!=	irc: la commande "part" peut seulement être exécutée dans un tampon canal ou privé
+2012-11-17 00:02:36	=!=	irc: la commande "part" peut seulement être exécutée dans un tampon canal ou privé
+2012-11-22 21:05:15	--	irc: connecté à irc.mozilla.org/6667 (63.245.212.23)
+2012-11-22 21:05:15	--	gravel.mozilla.org (gravel.mozilla.org): *** Looking up your hostname...
+2012-11-22 21:05:15	--	gravel.mozilla.org (gravel.mozilla.org): *** Found your hostname
+2012-11-22 21:05:16	--	Welcome to the Mozilla IRC Network Erebe!Erebe@ALyon-654-1-298-236.w90-53.abo.wanadoo.fr
+2012-11-22 21:05:16	--	Your host is gravel.mozilla.org, running version Unreal3.2.8
+2012-11-22 21:05:16	--	This server was created Tue Mar 31 2009 at 20:07:55 PDT
+2012-11-22 21:05:16	--	gravel.mozilla.org Unreal3.2.8 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+2012-11-22 21:05:16	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=100 CHANLIMIT=#:100 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2012-11-22 21:05:16	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(ohv)@%+ CHANMODES=beIqa,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mozilla CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+2012-11-22 21:05:16	--	STATUSMSG=@%+ EXCEPTS INVEX :are supported by this server
+2012-11-22 21:05:16	--	There are 16 users and 1894 invisible on 3 servers
+2012-11-22 21:05:16	--	18 :operator(s) online
+2012-11-22 21:05:16	--	693 :channels formed
+2012-11-22 21:05:16	--	I have 867 clients and 1 servers
+2012-11-22 21:05:16	--	Current Local Users: 867  Max: 1894
+2012-11-22 21:05:16	--	Current Global Users: 1910  Max: 2387
+2012-11-22 21:05:16	--	- gravel.mozilla.org Message of the Day -
+2012-11-22 21:05:16	--	- 30/1/2012 10:07
+2012-11-22 21:05:16	--	- oOo.o.oo.oO.oOO..OoOo. _ .OoOoo...
+2012-11-22 21:05:16	--	-  __ _ _ _ __ ___ _____| | oOo.o.oo...
+2012-11-22 21:05:16	--	- / _` | '_/ _` \ V / -_) | o.o.oooOo..oo
+2012-11-22 21:05:16	--	- \__, |_| \__,_|\_/\___|_| o.ooOo.oooO..ooooo
+2012-11-22 21:05:16	--	- |___/  .o.ooo...o.oo...ooo.o.oo.oooOOO.oOOOo.o
+2012-11-22 21:05:16	--	- ..oo.o.oOOO.oo.ooOOO.o.o.OOOooooOOOO....oOoOOOooooOO
+2012-11-22 21:05:16	--	-                  M O Z I L L A   D O T   O R G
+2012-11-22 21:05:16	--	-                     http://www.mozilla.org/
+2012-11-22 21:05:16	--	-
+2012-11-22 21:05:16	--	- =================================================================
+2012-11-22 21:05:16	--	-  This server is for use by Mozilla developers, testers, and
+2012-11-22 21:05:16	--	-  users. If you are not one, please find another server.
+2012-11-22 21:05:16	--	-
+2012-11-22 21:05:16	--	-  NOTICE: Your IP address will be portscanned by our open
+2012-11-22 21:05:16	--	-  proxy tester.  See http://irc.mozilla.org/ for details.
+2012-11-22 21:05:16	--	-
+2012-11-22 21:05:16	--	- =================================================================
+2012-11-22 21:05:16	--	- Project information:
+2012-11-22 21:05:16	--	-  Firefox       #firefox     http://support.mozilla.org
+2012-11-22 21:05:16	--	-  Mobile        #mobile      http://support.mozilla.org/mobile
+2012-11-22 21:05:16	--	-  Thunderbird   #thunderbird http://support.mozillamessaging.com
+2012-11-22 21:05:16	--	-
+2012-11-22 21:05:16	--	- Help for new contributors:
+2012-11-22 21:05:16	--	-    #introduction     http://developer.mozilla.org/En/Introduction
+2012-11-22 21:05:16	--	- =================================================================
+2012-11-22 21:05:16	--	-
+2012-11-22 21:05:16	--	-  For a list of other helpful channels please visit
+2012-11-22 21:05:16	--	-  http://irc.mozilla.org/ or use the /list command.
+2012-11-22 21:05:16	--	-  Additional help with IRC at http://www.irchelp.org/
+2012-11-22 21:05:16	--	End of /MOTD command.
+2012-11-22 21:05:16	--	Mode utilisateur [+ix] par Erebe
+2012-11-22 21:05:16	--	ChanServ (services@mozilla.org): [#frenchmoz] Bienvenue sur le canal de la communauté francophone de Mozilla. Ce canal utilise l'encodage UTF-8. Pour de l'aide sur l'utilisation de Firefox, Thunderbird, etc. visitez http://www.geckozone.org/
+2012-11-22 21:16:57	--	irc: connecté à irc.mozilla.org/6667 (63.245.212.23)
+2012-11-22 21:16:58	--	gravel.mozilla.org (gravel.mozilla.org): *** Looking up your hostname...
+2012-11-22 21:16:58	--	gravel.mozilla.org (gravel.mozilla.org): *** Found your hostname
+2012-11-22 21:16:59	--	Welcome to the Mozilla IRC Network Erebe!Erebe@ALyon-654-1-298-236.w90-53.abo.wanadoo.fr
+2012-11-22 21:16:59	--	Your host is gravel.mozilla.org, running version Unreal3.2.8
+2012-11-22 21:16:59	--	This server was created Tue Mar 31 2009 at 20:07:55 PDT
+2012-11-22 21:16:59	--	gravel.mozilla.org Unreal3.2.8 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+2012-11-22 21:16:59	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=100 CHANLIMIT=#:100 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2012-11-22 21:16:59	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(ohv)@%+ CHANMODES=beIqa,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mozilla CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+2012-11-22 21:16:59	--	STATUSMSG=@%+ EXCEPTS INVEX :are supported by this server
+2012-11-22 21:16:59	--	There are 16 users and 1888 invisible on 3 servers
+2012-11-22 21:16:59	--	18 :operator(s) online
+2012-11-22 21:16:59	--	1 :unknown connection(s)
+2012-11-22 21:16:59	--	692 :channels formed
+2012-11-22 21:16:59	--	I have 865 clients and 1 servers
+2012-11-22 21:16:59	--	Current Local Users: 865  Max: 1894
+2012-11-22 21:16:59	--	Current Global Users: 1904  Max: 2387
+2012-11-22 21:16:59	--	- gravel.mozilla.org Message of the Day -
+2012-11-22 21:16:59	--	- 30/1/2012 10:07
+2012-11-22 21:16:59	--	- oOo.o.oo.oO.oOO..OoOo. _ .OoOoo...
+2012-11-22 21:16:59	--	-  __ _ _ _ __ ___ _____| | oOo.o.oo...
+2012-11-22 21:16:59	--	- / _` | '_/ _` \ V / -_) | o.o.oooOo..oo
+2012-11-22 21:16:59	--	- \__, |_| \__,_|\_/\___|_| o.ooOo.oooO..ooooo
+2012-11-22 21:16:59	--	- |___/  .o.ooo...o.oo...ooo.o.oo.oooOOO.oOOOo.o
+2012-11-22 21:16:59	--	- ..oo.o.oOOO.oo.ooOOO.o.o.OOOooooOOOO....oOoOOOooooOO
+2012-11-22 21:16:59	--	-                  M O Z I L L A   D O T   O R G
+2012-11-22 21:16:59	--	-                     http://www.mozilla.org/
+2012-11-22 21:16:59	--	-
+2012-11-22 21:16:59	--	- =================================================================
+2012-11-22 21:16:59	--	-  This server is for use by Mozilla developers, testers, and
+2012-11-22 21:16:59	--	-  users. If you are not one, please find another server.
+2012-11-22 21:16:59	--	-
+2012-11-22 21:16:59	--	-  NOTICE: Your IP address will be portscanned by our open
+2012-11-22 21:16:59	--	-  proxy tester.  See http://irc.mozilla.org/ for details.
+2012-11-22 21:16:59	--	-
+2012-11-22 21:16:59	--	- =================================================================
+2012-11-22 21:16:59	--	- Project information:
+2012-11-22 21:16:59	--	-  Firefox       #firefox     http://support.mozilla.org
+2012-11-22 21:16:59	--	-  Mobile        #mobile      http://support.mozilla.org/mobile
+2012-11-22 21:16:59	--	-  Thunderbird   #thunderbird http://support.mozillamessaging.com
+2012-11-22 21:16:59	--	-
+2012-11-22 21:16:59	--	- Help for new contributors:
+2012-11-22 21:16:59	--	-    #introduction     http://developer.mozilla.org/En/Introduction
+2012-11-22 21:16:59	--	- =================================================================
+2012-11-22 21:16:59	--	-
+2012-11-22 21:16:59	--	-  For a list of other helpful channels please visit
+2012-11-22 21:16:59	--	-  http://irc.mozilla.org/ or use the /list command.
+2012-11-22 21:16:59	--	-  Additional help with IRC at http://www.irchelp.org/
+2012-11-22 21:16:59	--	End of /MOTD command.
+2012-11-22 21:16:59	--	Mode utilisateur [+ix] par Erebe
+2012-11-22 21:16:59	--	ChanServ (services@mozilla.org): [#frenchmoz] Bienvenue sur le canal de la communauté francophone de Mozilla. Ce canal utilise l'encodage UTF-8. Pour de l'aide sur l'utilisation de Firefox, Thunderbird, etc. visitez http://www.geckozone.org/
+2012-11-22 21:33:16	--	irc: connecté à irc.mozilla.org/6667 (63.245.212.23)
+2012-11-22 21:33:16	--	gravel.mozilla.org (gravel.mozilla.org): *** Looking up your hostname...
+2012-11-22 21:33:16	--	gravel.mozilla.org (gravel.mozilla.org): *** Found your hostname
+2012-11-22 21:33:17	--	Welcome to the Mozilla IRC Network Erebe!Erebe@ALyon-654-1-298-236.w90-53.abo.wanadoo.fr
+2012-11-22 21:33:17	--	Your host is gravel.mozilla.org, running version Unreal3.2.8
+2012-11-22 21:33:17	--	This server was created Tue Mar 31 2009 at 20:07:55 PDT
+2012-11-22 21:33:17	--	gravel.mozilla.org Unreal3.2.8 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+2012-11-22 21:33:17	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=100 CHANLIMIT=#:100 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2012-11-22 21:33:17	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(ohv)@%+ CHANMODES=beIqa,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mozilla CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+2012-11-22 21:33:17	--	STATUSMSG=@%+ EXCEPTS INVEX :are supported by this server
+2012-11-22 21:33:17	--	There are 16 users and 1873 invisible on 3 servers
+2012-11-22 21:33:17	--	18 :operator(s) online
+2012-11-22 21:33:17	--	686 :channels formed
+2012-11-22 21:33:17	--	I have 852 clients and 1 servers
+2012-11-22 21:33:17	--	Current Local Users: 852  Max: 1894
+2012-11-22 21:33:17	--	Current Global Users: 1889  Max: 2387
+2012-11-22 21:33:17	--	- gravel.mozilla.org Message of the Day -
+2012-11-22 21:33:17	--	- 30/1/2012 10:07
+2012-11-22 21:33:17	--	- oOo.o.oo.oO.oOO..OoOo. _ .OoOoo...
+2012-11-22 21:33:17	--	-  __ _ _ _ __ ___ _____| | oOo.o.oo...
+2012-11-22 21:33:17	--	- / _` | '_/ _` \ V / -_) | o.o.oooOo..oo
+2012-11-22 21:33:17	--	- \__, |_| \__,_|\_/\___|_| o.ooOo.oooO..ooooo
+2012-11-22 21:33:17	--	- |___/  .o.ooo...o.oo...ooo.o.oo.oooOOO.oOOOo.o
+2012-11-22 21:33:17	--	- ..oo.o.oOOO.oo.ooOOO.o.o.OOOooooOOOO....oOoOOOooooOO
+2012-11-22 21:33:17	--	-                  M O Z I L L A   D O T   O R G
+2012-11-22 21:33:17	--	-                     http://www.mozilla.org/
+2012-11-22 21:33:17	--	-
+2012-11-22 21:33:17	--	- =================================================================
+2012-11-22 21:33:17	--	-  This server is for use by Mozilla developers, testers, and
+2012-11-22 21:33:17	--	-  users. If you are not one, please find another server.
+2012-11-22 21:33:17	--	-
+2012-11-22 21:33:17	--	-  NOTICE: Your IP address will be portscanned by our open
+2012-11-22 21:33:17	--	-  proxy tester.  See http://irc.mozilla.org/ for details.
+2012-11-22 21:33:17	--	-
+2012-11-22 21:33:17	--	- =================================================================
+2012-11-22 21:33:17	--	- Project information:
+2012-11-22 21:33:17	--	-  Firefox       #firefox     http://support.mozilla.org
+2012-11-22 21:33:17	--	-  Mobile        #mobile      http://support.mozilla.org/mobile
+2012-11-22 21:33:17	--	-  Thunderbird   #thunderbird http://support.mozillamessaging.com
+2012-11-22 21:33:17	--	-
+2012-11-22 21:33:17	--	- Help for new contributors:
+2012-11-22 21:33:17	--	-    #introduction     http://developer.mozilla.org/En/Introduction
+2012-11-22 21:33:17	--	- =================================================================
+2012-11-22 21:33:17	--	-
+2012-11-22 21:33:17	--	-  For a list of other helpful channels please visit
+2012-11-22 21:33:17	--	-  http://irc.mozilla.org/ or use the /list command.
+2012-11-22 21:33:17	--	-  Additional help with IRC at http://www.irchelp.org/
+2012-11-22 21:33:17	--	End of /MOTD command.
+2012-11-22 21:33:17	--	Mode utilisateur [+ix] par Erebe
+2012-11-22 21:33:17	--	ChanServ (services@mozilla.org): [#frenchmoz] Bienvenue sur le canal de la communauté francophone de Mozilla. Ce canal utilise l'encodage UTF-8. Pour de l'aide sur l'utilisation de Firefox, Thunderbird, etc. visitez http://www.geckozone.org/
+2012-11-22 21:33:47	--	irc: connecté à irc.mozilla.org/6667 (63.245.212.23)
+2012-11-22 21:33:47	--	gravel.mozilla.org (gravel.mozilla.org): *** Looking up your hostname...
+2012-11-22 21:33:47	--	gravel.mozilla.org (gravel.mozilla.org): *** Found your hostname (cached)
+2012-11-22 21:33:47	--	Welcome to the Mozilla IRC Network Erebe!Erebe@ALyon-654-1-298-236.w90-53.abo.wanadoo.fr
+2012-11-22 21:33:47	--	Your host is gravel.mozilla.org, running version Unreal3.2.8
+2012-11-22 21:33:47	--	This server was created Tue Mar 31 2009 at 20:07:55 PDT
+2012-11-22 21:33:47	--	gravel.mozilla.org Unreal3.2.8 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+2012-11-22 21:33:47	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=100 CHANLIMIT=#:100 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2012-11-22 21:33:47	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(ohv)@%+ CHANMODES=beIqa,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mozilla CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+2012-11-22 21:33:47	--	STATUSMSG=@%+ EXCEPTS INVEX :are supported by this server
+2012-11-22 21:33:47	--	There are 16 users and 1870 invisible on 3 servers
+2012-11-22 21:33:47	--	18 :operator(s) online
+2012-11-22 21:33:47	--	3 :unknown connection(s)
+2012-11-22 21:33:47	--	686 :channels formed
+2012-11-22 21:33:47	--	I have 852 clients and 1 servers
+2012-11-22 21:33:47	--	Current Local Users: 852  Max: 1894
+2012-11-22 21:33:47	--	Current Global Users: 1886  Max: 2387
+2012-11-22 21:33:47	--	- gravel.mozilla.org Message of the Day -
+2012-11-22 21:33:47	--	- 30/1/2012 10:07
+2012-11-22 21:33:47	--	- oOo.o.oo.oO.oOO..OoOo. _ .OoOoo...
+2012-11-22 21:33:47	--	-  __ _ _ _ __ ___ _____| | oOo.o.oo...
+2012-11-22 21:33:47	--	- / _` | '_/ _` \ V / -_) | o.o.oooOo..oo
+2012-11-22 21:33:47	--	- \__, |_| \__,_|\_/\___|_| o.ooOo.oooO..ooooo
+2012-11-22 21:33:47	--	- |___/  .o.ooo...o.oo...ooo.o.oo.oooOOO.oOOOo.o
+2012-11-22 21:33:47	--	- ..oo.o.oOOO.oo.ooOOO.o.o.OOOooooOOOO....oOoOOOooooOO
+2012-11-22 21:33:47	--	-                  M O Z I L L A   D O T   O R G
+2012-11-22 21:33:47	--	-                     http://www.mozilla.org/
+2012-11-22 21:33:47	--	-
+2012-11-22 21:33:47	--	- =================================================================
+2012-11-22 21:33:47	--	-  This server is for use by Mozilla developers, testers, and
+2012-11-22 21:33:47	--	-  users. If you are not one, please find another server.
+2012-11-22 21:33:47	--	-
+2012-11-22 21:33:47	--	-  NOTICE: Your IP address will be portscanned by our open
+2012-11-22 21:33:47	--	-  proxy tester.  See http://irc.mozilla.org/ for details.
+2012-11-22 21:33:47	--	-
+2012-11-22 21:33:47	--	- =================================================================
+2012-11-22 21:33:47	--	- Project information:
+2012-11-22 21:33:47	--	-  Firefox       #firefox     http://support.mozilla.org
+2012-11-22 21:33:47	--	-  Mobile        #mobile      http://support.mozilla.org/mobile
+2012-11-22 21:33:47	--	-  Thunderbird   #thunderbird http://support.mozillamessaging.com
+2012-11-22 21:33:47	--	-
+2012-11-22 21:33:47	--	- Help for new contributors:
+2012-11-22 21:33:47	--	-    #introduction     http://developer.mozilla.org/En/Introduction
+2012-11-22 21:33:47	--	- =================================================================
+2012-11-22 21:33:47	--	-
+2012-11-22 21:33:47	--	-  For a list of other helpful channels please visit
+2012-11-22 21:33:47	--	-  http://irc.mozilla.org/ or use the /list command.
+2012-11-22 21:33:47	--	-  Additional help with IRC at http://www.irchelp.org/
+2012-11-22 21:33:47	--	End of /MOTD command.
+2012-11-22 21:33:47	--	Mode utilisateur [+ix] par Erebe
+2012-11-22 21:33:47	--	ChanServ (services@mozilla.org): [#frenchmoz] Bienvenue sur le canal de la communauté francophone de Mozilla. Ce canal utilise l'encodage UTF-8. Pour de l'aide sur l'utilisation de Firefox, Thunderbird, etc. visitez http://www.geckozone.org/

@@ -1,0 +1,27 @@
+[2012-11-22 21:33:46] weechat 0.3.9 (compilé le Sep 30 2012 00:44:34)
+[2012-11-22 21:33:46] Lecture du fichier de configuration weechat.conf
+[2012-11-22 21:33:46] Lecture du fichier de configuration plugins.conf
+[2012-11-22 21:33:46] Lecture du fichier de configuration relay.conf
+[2012-11-22 21:33:46] Lecture du fichier de configuration xfer.conf
+[2012-11-22 21:33:46] Lecture du fichier de configuration script.conf
+[2012-11-22 21:33:46] Lecture du fichier de configuration alias.conf
+[2012-11-22 21:33:46] Lecture du fichier de configuration charset.conf
+[2012-11-22 21:33:46] Lecture du fichier de configuration buffers.conf
+[2012-11-22 21:33:46] Lecture du fichier de configuration irc.conf
+[2012-11-22 21:33:46] irc: connexion au serveur irc.efnet.fr/6667...
+[2012-11-22 21:33:46] irc: connexion au serveur irc.mozilla.org/6667...
+[2012-11-22 21:33:46] Lecture du fichier de configuration rmodifier.conf
+[2012-11-22 21:33:46] Lecture du fichier de configuration aspell.conf
+[2012-11-22 21:33:46] Lecture du fichier de configuration logger.conf
+[2012-11-22 21:33:52] Ecriture du fichier de configuration plugins.conf 
+[2012-11-22 21:33:52] Ecriture du fichier de configuration logger.conf 
+[2012-11-22 21:33:52] Ecriture du fichier de configuration aspell.conf 
+[2012-11-22 21:33:52] Ecriture du fichier de configuration rmodifier.conf 
+[2012-11-22 21:33:52] Ecriture du fichier de configuration irc.conf 
+[2012-11-22 21:33:52] Ecriture du fichier de configuration buffers.conf 
+[2012-11-22 21:33:52] Ecriture du fichier de configuration charset.conf 
+[2012-11-22 21:33:52] Ecriture du fichier de configuration alias.conf 
+[2012-11-22 21:33:52] Ecriture du fichier de configuration script.conf 
+[2012-11-22 21:33:52] Ecriture du fichier de configuration xfer.conf 
+[2012-11-22 21:33:52] Ecriture du fichier de configuration relay.conf 
+[2012-11-22 21:33:52] Ecriture du fichier de configuration weechat.conf 

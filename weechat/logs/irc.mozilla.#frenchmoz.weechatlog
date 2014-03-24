@@ -1,0 +1,575 @@
+2012-10-21 03:15:49	-->	Erebe (Erebe@moz-6867505B.res.insa-lyon.fr) has joined #frenchmoz
+2012-10-21 03:15:49	--	Topic for #frenchmoz is "Le salon des contributeurs Mozilla francophones | Activit?s en cours : http://mozfr.org/mailman/listinfo/moz-fr | R?gles : UTF-8 et z?ro SMS | Aide pour Firefox, Thunderbird : http://www.geckozone.org/ | http://wiki.mozfr.org/Agenda | "vendredis noob", ? 11h sur #mozfr"
+2012-10-21 03:15:49	--	Topic set by clarista on Tue, 02 Oct 2012 11:52:01
+2012-10-21 03:15:49	--	Nicks #frenchmoz: [@Benoit %chbok \u03b5 alexis Archaeopteryx arno barzogh brambles Chaasof chewey cmal Darkknow davromaniak Erebe Eric`Taff fabrice|afk feedoo firebot florian FredB frmozbot gavin geb GeekShadow gerard-majax glandium hugues jb Ju Julia kang Keltounet khuey|away linostar margaret Milos mounir mrbkap nbp not_gavin ochameau olive padenot pandark phrawzty rednaks Siltaar tchevalier theocrite tofumatt vincentxavier Xaya XioNoX Yoric]
+2012-10-21 03:15:49	--	Channel #frenchmoz: 54 nicks (1 op, 1 halfop, 0 voices, 52 normals)
+2012-10-21 03:15:51	--	Mode #frenchmoz [+ntr]
+2012-10-21 03:15:51	--	Channel created on Mon, 30 May 2011 00:10:03
+2012-10-21 03:16:13	-->	Erebe (Erebe@moz-6867505B.res.insa-lyon.fr) has joined #frenchmoz
+2012-10-21 03:16:13	--	Topic for #frenchmoz is "Le salon des contributeurs Mozilla francophones | Activit?s en cours : http://mozfr.org/mailman/listinfo/moz-fr | R?gles : UTF-8 et z?ro SMS | Aide pour Firefox, Thunderbird : http://www.geckozone.org/ | http://wiki.mozfr.org/Agenda | "vendredis noob", ? 11h sur #mozfr"
+2012-10-21 03:16:13	--	Topic set by clarista on Tue, 02 Oct 2012 11:52:01
+2012-10-21 03:16:13	--	Nicks #frenchmoz: [@Benoit %chbok \u03b5 alexis Archaeopteryx arno barzogh brambles Chaasof chewey cmal Darkknow davromaniak Erebe Eric`Taff fabrice|afk feedoo firebot florian FredB frmozbot gavin geb GeekShadow gerard-majax glandium hugues jb Ju Julia kang Keltounet khuey|away linostar margaret Milos mounir mrbkap nbp not_gavin ochameau olive padenot pandark phrawzty rednaks Siltaar tchevalier theocrite tofumatt vincentxavier Xaya XioNoX Yoric]
+2012-10-21 03:16:13	--	Channel #frenchmoz: 54 nicks (1 op, 1 halfop, 0 voices, 52 normals)
+2012-10-21 03:16:14	--	Mode #frenchmoz [+ntr]
+2012-10-21 03:16:14	--	Channel created on Mon, 30 May 2011 00:10:03
+2012-11-06 19:56:50	-->	Erebe (Erebe@moz-D9538D79.insa-lyon.fr) a rejoint #frenchmoz
+2012-11-06 19:56:50	--	Le titre pour #frenchmoz est "Le salon des contributeurs Mozilla francophones | Activités en cours : http://mozfr.org/mailman/listinfo/moz-fr | Règles : UTF-8 et zéro SMS | Aide pour Firefox, Thunderbird : http://www.geckozone.org/ | http://wiki.mozfr.org/Agenda | "vendredis noob", à 11h sur #mozfr"
+2012-11-06 19:56:50	--	Titre défini par clarista le mar., 02 oct. 2012 11:52:01
+2012-11-06 19:56:50	--	Pseudos #frenchmoz: [@Benoit %chbok %kaze %pascalc alexis arno barzogh bjacob BlackEco brambles Chaasof chewey Darkknow davromaniak delphine Erebe Eric`Taff fabrice firebot Flore flynnv FredB frmozbot gavin geb GeekShadow glandium Goldorak goofy hugues jhopkins Julia kang Keltounet khuey|away linostar madix margaret mbrubeck mmkmou mounir mrbkap nbp nitot not_gavin ochameau padenot pandark phrawzty Siltaar sonny stas SwordArMor taratatach tchevalier theocrite thinkling tofumatt tOkeshu vincentxavier XioNoX Yoric yvg]
+2012-11-06 19:56:50	--	Canal #frenchmoz: 63 pseudos (1 op, 3 halfops, 0 voice, 59 normaux)
+2012-11-06 19:56:52	--	Mode #frenchmoz [+ntr]
+2012-11-06 19:56:52	--	Canal créé le lun., 30 mai 2011 00:10:03
+2012-11-06 19:57:33	<--	sonny (Instantbir@moz-8E492BD3.red-80-28-209.adsl.static.ccgg.telefonica.net) a quitté (Ping timeout)
+2012-11-06 19:57:59	<--	delphine (delphine@moz-AEFE80A4.fbx.proxad.net) a quitté (Quit: Leaving.)
+2012-11-06 19:58:29	-->	Usul (anonymous@moz-56D85E56.cm-6-7a.dynamic.ziggo.nl) a rejoint #frenchmoz
+2012-11-06 20:01:15	<--	Usul (anonymous@moz-56D85E56.cm-6-7a.dynamic.ziggo.nl) a quitté (Ping timeout)
+2012-11-06 20:01:57	-->	Usul (anonymous@moz-56D85E56.cm-6-7a.dynamic.ziggo.nl) a rejoint #frenchmoz
+2012-11-06 20:02:59	<--	Usul (anonymous@moz-56D85E56.cm-6-7a.dynamic.ziggo.nl) a quitté (Quit: Usul)
+2012-11-06 20:06:13	<--	BlackEco (black_eco@moz-1B58D115.fbx.proxad.net) a quitté (Quit: Quitte)
+2012-11-06 20:06:33	<--	yvg (SC@BFF25B12.2EF83B5B.BB1701D8.IP) a quitté (Quit: This computer has gone to sleep)
+2012-11-06 20:07:51	<tchevalier>	pascalc: Yes pascal, j'ai apperçu ton touite pendant le repas :) J'imagine que c'est assez court comme traduction ? De toutes façons, je vais publier les dernières modifications de State of Mozilla  avant, histoire de pas être à la bourre
+2012-11-06 20:08:26	-->	SimSim (SimSim@moz-5E0B0156.fbx.proxad.net) a rejoint #frenchmoz
+2012-11-06 20:08:35	<%pascalc>	oui très court normalement, le truc c'est que la page est même pas créée, Chelsea la fille qui s'en occupe me passera les chaines à la main
+2012-11-06 20:08:58	<tchevalier>	pascalc: Ok (Ho ce bordel :D)
+2012-11-06 20:09:03	<%pascalc>	je créerai un fichier .lang avec les chaînes avant que le code pour la page ne soit écrit en fait
+2012-11-06 20:09:09	<%pascalc>	tu m'étonnes :)
+2012-11-06 20:09:44	<%pascalc>	j'ai eu une réunion avec elle tout à l'heure pour voir comment on s'organise
+2012-11-06 20:10:07	<tchevalier>	pascalc: C'est du même niveau que la loca de ChatZilla et Venkman dans SeaMonkey -> on doit péter les nightly et fouiller les logs pour trouver les chaines manquantes
+2012-11-06 20:10:22	<%pascalc>	il y aura aussi des traductions sur Facebook mais c'est Facebook qui va les faire, par contre on fera la review de leurs traductions pour être sûr que ça nous convient
+2012-11-06 20:11:08	<tchevalier>	pascalc: D'ailleurs ça me fait penser que je voulais te proposer cette amélioration pour Transvision: ajouter les chaines du dépôt chatzilla et Venkman, mais je sais pas si c'est faisable.
+2012-11-06 20:11:08	<tchevalier>	Facebook qui va les faire ?
+2012-11-06 20:11:41	<%pascalc>	tchevalier, le server de State of Mozilla est réparé !
+2012-11-06 20:11:49	<%pascalc>	les traductions se voient enfin
+2012-11-06 20:12:03	<tchevalier>	pascalc: Ho cool, bon boulot à vous tous ! Je regarde ça
+2012-11-06 20:12:19	<%pascalc>	la grosse news de Firefox 17 c'est la social Api, avec Facebook comme premier provider
+2012-11-06 20:12:36	<tchevalier>	Ha je vois
+2012-11-06 20:14:32	<flynnv>	Salut tchevalier et pascalc
+2012-11-06 20:14:52	<tchevalier>	Salut flynnv
+2012-11-06 20:16:32	<flynnv>	Facebook participe à mozilla ?
+2012-11-06 20:17:14	<%pascalc>	non, on a créé un outil intégré à Firefox qui permet de dialoguer directement avec des apis de réseaux sociaux
+2012-11-06 20:17:27	<%pascalc>	et pour l'instant on teste avec Facebook
+2012-11-06 20:17:38	<--	stas (stas@52A1524D.4E7EDEC9.632B8C24.IP) a quitté (Ping timeout)
+2012-11-06 20:17:39	<tchevalier>	Au fait, pas de What's new pour TB ce coup-ci ?
+2012-11-06 20:17:43	<flynnv>	Ah ok ^^ c'est cool (j'étais pas au courant)
+2012-11-06 20:18:25	<%pascalc>	si tout va bien, on l'active pour Firefox 17 mais en fait c'est déjà dans Firefox Bêta et Nightly, ya des prefs dans about:config à activer je crois
+2012-11-06 20:18:48	<%pascalc>	tchevalier, je t'avouerais que je ne suis pas du tout Thunderbird
+2012-11-06 20:18:54	<%pascalc>	mais à mon avis non, 
+2012-11-06 20:19:17	<tchevalier>	Ok
+2012-11-06 20:19:26	<%pascalc>	je pense pas qu'il y ait de gros changements pour TB dans la 17 et je pense que instantbird permet l'équivalent
+2012-11-06 20:19:35	<%pascalc>	donc déjà dans THunderbird
+2012-11-06 20:30:24	<--	Chaasof (chatzilla@24067163.74C6FD40.360EF119.IP) a quitté (Ping timeout)
+2012-11-06 20:31:08	-->	Chaasof (chatzilla@24067163.74C6FD40.360EF119.IP) a rejoint #frenchmoz
+2012-11-06 20:36:42	-->	clarista (Mibbit@moz-64E1A8DA.fbx.proxad.net) a rejoint #frenchmoz
+2012-11-06 20:36:42	--	Mode #frenchmoz [+o clarista] par ChanServ
+2012-11-06 20:37:44	-->	stas (stas@24C94701.2379ECBA.D25A875A.IP) a rejoint #frenchmoz
+2012-11-06 20:42:01	--	irc: déconnecté du serveur
+2012-11-06 20:42:32	-->	Erebe (Erebe@moz-F458B6E4.insa-lyon.fr) a rejoint #frenchmoz
+2012-11-06 20:42:32	--	Le titre pour #frenchmoz est "Le salon des contributeurs Mozilla francophones | Activités en cours : http://mozfr.org/mailman/listinfo/moz-fr | Règles : UTF-8 et zéro SMS | Aide pour Firefox, Thunderbird : http://www.geckozone.org/ | http://wiki.mozfr.org/Agenda | "vendredis noob", à 11h sur #mozfr"
+2012-11-06 20:42:32	--	Titre défini par clarista le mar., 02 oct. 2012 11:52:01
+2012-11-06 20:42:32	--	Pseudos #frenchmoz: [@Benoit @clarista %chbok %kaze %pascalc alexis arno barzogh bjacob brambles Chaasof chewey Darkknow davromaniak Erebe Eric`Taff fabrice firebot Flore flynnv frmozbot gavin geb GeekShadow glandium Goldorak goofy hugues jhopkins Julia kang Keltounet khuey|away linostar madix margaret mbrubeck mounir mrbkap nbp nitot not_gavin ochameau padenot pandark phrawzty Siltaar SimSim stas SwordArMor taratatach tchevalier theocrite thinkling tofumatt tOkeshu vincentxavier XioNoX Yoric]
+2012-11-06 20:42:32	--	Canal #frenchmoz: 59 pseudos (2 ops, 3 halfops, 0 voice, 54 normaux)
+2012-11-06 20:42:34	--	Mode #frenchmoz [+ntr]
+2012-11-06 20:42:34	--	Canal créé le lun., 30 mai 2011 00:10:03
+2012-11-06 20:43:14	<--	Chaasof (chatzilla@24067163.74C6FD40.360EF119.IP) a quitté (Ping timeout)
+2012-11-06 20:44:38	-->	Xaya (malkavian@moz-7B1B75D2.rev.sfr.net) a rejoint #frenchmoz
+2012-11-06 20:44:54	<Xaya>	YopoY
+2012-11-06 20:46:38	-->	msteshi (Adium@moz-32DA046C.w83-202.abo.wanadoo.fr) a rejoint #frenchmoz
+2012-11-06 20:48:02	-->	mermi (mermi@98A12A03.FDC07987.55FFA9B4.IP) a rejoint #frenchmoz
+2012-11-06 20:49:08	<flynnv>	Yo xaya
+2012-11-06 20:49:18	<Xaya>	:)
+2012-11-06 20:49:34	<flynnv>	ca va ?
+2012-11-06 20:50:34	<Xaya>	ouip et toi ?
+2012-11-06 20:50:38	<flynnv>	ca va ca va
+2012-11-06 20:51:07	<Xaya>	clarista j'ai découvert un truc génial en allant prendre la résidence michut en photo
+2012-11-06 20:51:13	<Xaya>	c'est parce que c'est la rue clement michut !
+2012-11-06 20:51:22	<Xaya>	donc en plein jour je te prend ça en photo !
+2012-11-06 20:51:55	<--	SwordArMor (Swordy@moz-465EFA25.lil.modulonet.fr) a quitté (Connection reset by peer)
+2012-11-06 20:52:05	-->	SwordArMor (Swordy@moz-465EFA25.lil.modulonet.fr) a rejoint #frenchmoz
+2012-11-06 20:52:42	-->	foudfou (foudfou@moz-E52159A3.rev.numericable.fr) a rejoint #frenchmoz
+2012-11-06 20:52:50	-->	tbx (t@moz-78BF47D5.adsl.alicedsl.de) a rejoint #frenchmoz
+2012-11-06 20:54:51	<@clarista>	Xaya: merci :-)
+2012-11-06 20:55:36	<flynnv>	xD
+2012-11-06 21:02:43	<--	foudfou (foudfou@moz-E52159A3.rev.numericable.fr) a quitté (Ping timeout)
+2012-11-06 21:03:52	<@Benoit>	pascalc: vendredi soir je suis à Londres :)
+2012-11-06 21:04:14	-->	Chaasof (chatzilla@A41571B6.D59DBBEF.6D8B4AB5.IP) a rejoint #frenchmoz
+2012-11-06 21:08:19	<--	msteshi (Adium@moz-32DA046C.w83-202.abo.wanadoo.fr) a quitté (Quit: Leaving.)
+2012-11-06 21:11:13	<--	flynnv (Thunderbir@moz-77678BE9.rev.sfr.net) a quitté (Ping timeout)
+2012-11-06 21:18:49	-->	tsatse (tsatse@moz-C6BC474B.fbx.proxad.net) a rejoint #frenchmoz
+2012-11-06 21:21:07	<pandark>	Bon, voilà, c'est de retout sur BM, le texte qui a une langue définie (lang="en") et autre que la meilleur correspondance avec les préférences de l'utilisateur est coloré en gris.
+2012-11-06 21:21:15	<pandark>	s/retout/retour
+2012-11-06 21:26:17	<--	SwordArMor (Swordy@moz-465EFA25.lil.modulonet.fr) a quitté (Quit: I am a manual virus, please copy me to your quit message.)
+2012-11-06 21:28:10	<%pascalc>	Benoit, amuse toi bien :)
+2012-11-06 21:41:07	-->	Bobo (Thunderbir@moz-F17C806F.fbx.proxad.net) a rejoint #frenchmoz
+2012-11-06 21:44:13	<goofy>	pascalc: http://blog.babelzilla.org/2012/11/06/checking-accesskeys-with-transvision-on-ver-1-7/
+2012-11-06 21:45:37	-->	foudfou (foudfou@moz-E52159A3.rev.numericable.fr) a rejoint #frenchmoz
+2012-11-06 21:47:34	<%pascalc>	cool, merci Goofy :)
+2012-11-06 21:47:36	<--	fabrice (fabrice@52A1524D.4E7EDEC9.632B8C24.IP) a quitté (Ping timeout)
+2012-11-06 21:47:41	<@clarista>	goofy: ping
+2012-11-06 21:47:53	<goofy>	clarista: coincoin
+2012-11-06 21:48:15	<@clarista>	goofy: :-) as-tu eu mon mail? concernant la demande de localisation de fabio?
+2012-11-06 21:48:36	<goofy>	pour localiser l'enquête marketing ?
+2012-11-06 21:48:56	<Erebe>	You are working late at mozilla France ;)
+2012-11-06 21:48:57	<@clarista>	oui
+2012-11-06 21:49:01	<%pascalc>	ah oui tiens, c'est un truc que j'ai laissé de côté
+2012-11-06 21:49:13	<%pascalc>	il doit me détester le Fabio :)
+2012-11-06 21:49:22	<--	stas (stas@24C94701.2379ECBA.D25A875A.IP) a quitté (Ping timeout)
+2012-11-06 21:49:36	<@clarista>	goofy: comment puis-je le localiser?
+2012-11-06 21:50:19	<goofy>	eh eh c'est le genre de trucs qui devrait atterrir d'abord chez Pascal qui nou sindique le fichier à localiser et on le fait :D
+2012-11-06 21:50:33	<%pascalc>	bah en fait je l'ai fait et Théo a traduit
+2012-11-06 21:50:37	<@clarista>	il m'a envoyé un mail, c'est pour ça
+2012-11-06 21:50:42	<goofy>	oui j'ai vu ça
+2012-11-06 21:50:54	<@clarista>	donc, je ne fais rien? je lui dis quoi?
+2012-11-06 21:50:58	<%pascalc>	mais il y a eu des changements de dernière minute le 1er novembre et j'ai fait le pont
+2012-11-06 21:51:26	<goofy>	quelle honte quelle grosse feignasse de fonctionnaire corse etc.
+2012-11-06 21:51:28	<%pascalc>	clarista, attends, je vais fouiller mon email pour voir quelles chaînes il voulait en plus
+2012-11-06 21:51:37	<goofy>	pasca
+2012-11-06 21:51:55	<goofy>	pascalc: te démène pas il attendra avec son enquête
+2012-11-06 21:52:08	<@clarista>	pascalc: french, german and polish
+2012-11-06 21:52:10	<%pascalc>	ok, ça sera pour demain :)
+2012-11-06 21:52:25	<@clarista>	mais je lui dis quoi à fabio?
+2012-11-06 21:52:41	-->	stas (stas@24C94701.2379ECBA.D25A875A.IP) a rejoint #frenchmoz
+2012-11-06 21:52:42	<goofy>	clarista: selon moi : tu ne lui réponds même pas :D
+2012-11-06 21:53:07	<@clarista>	goofy: pourquoi? ce n'est pas très gentil tout de même, il m'a mailé personnellement
+2012-11-06 21:53:16	<@clarista>	il abuse en fait? Je ne comprends pas bien ce qui se passe...
+2012-11-06 21:53:32	-->	yvg (SC@moz-CA415530.adsl.alicedsl.de) a rejoint #frenchmoz
+2012-11-06 21:53:38	<goofy>	moi aussi il y a des jeunes femmes très gentilles avec de fortes poitrines qui m'envoient des mails personnels
+2012-11-06 21:53:59	<tchevalier>	Ha oui, cette enquête :) Il faut que j'ajoute un {ok} à une chaine, et si possible ajouter d'autres exemples de sites, mais bon, c'est pas vital je pense
+2012-11-06 21:54:07	<goofy>	clarista: je ne diaris qu'il abuse mais bon il en prend un peu à son aise tout de même
+2012-11-06 21:54:28	<%pascalc>	clarista, en fait il a hérité d'un projet de dernière minute parce qu'il est en bas de la chaîne, mais il demandait quand même une traduction d'un sondage du mardi pour le vendredi
+2012-11-06 21:54:49	<goofy>	clarista: voilà, comme il dit theo : c'est pas vital
+2012-11-06 21:54:56	<@clarista>	oki
+2012-11-06 21:55:23	<@clarista>	mais c'est qui fabio? Un employé?
+2012-11-06 21:55:38	<tchevalier>	Je parlais surtout des exemples de sites à ajouter par rapport à ce que j'ai déjà mis, j'en sais rien si cette enquête est vitale ou pas moi, je traduis :D
+2012-11-06 21:55:45	<%pascalc>	et du côté de l'équipe l10n, on demande plus de temps que ça, après je comprends que ça l'embête parce que l'enquête c'est pas pour lui, c'est pour un gars plus haut que lui dans la hiérarchie
+2012-11-06 21:55:57	<%pascalc>	oui c'est un employé (ou contractor je sais plus)
+2012-11-06 21:58:59	<@clarista>	pascalc: voilà ce que fabio vient de dire, par mail : "Pascal just vanish, he don't answer emails and can't find him on IRC.  The Business Development team need this survey translated ASAP"
+2012-11-06 21:59:12	<--	stas (stas@24C94701.2379ECBA.D25A875A.IP) a quitté (Ping timeout)
+2012-11-06 21:59:39	<%pascalc>	oui, j'ai juste Firefox 17 et  State of Mozilla à gérer
+2012-11-06 21:59:43	<%pascalc>	entre autres
+2012-11-06 22:00:02	<goofy>	clarista:  moi aussi je traduis n'importe quoi ça m'amuse mais bon un traducteur du calibre de théo peut avoir d'autres priorités qu'un truc de marketing, pareil pour pascal de son côté il a plus urgent et important
+2012-11-06 22:00:34	<@clarista>	goofy: c'est pour ça que je vous dis que je suis prête à le faire
+2012-11-06 22:00:47	<@clarista>	mais il faut me dire comment. Si c'est vio bugzilla, c'est non
+2012-11-06 22:00:58	<goofy>	mais c'est trop tard chère clarista, c'est fait :)
+2012-11-06 22:01:15	<@clarista>	goofy: tu l'as fait?
+2012-11-06 22:01:37	<goofy>	tchevalier <--
+2012-11-06 22:01:49	<@clarista>	merci théo
+2012-11-06 22:02:04	<@clarista>	je suis désolée de vous avoir embêtés avec ça, c'est juste que comme j'ai reçu ce mail...
+2012-11-06 22:02:11	<tchevalier>	Mais apparement il y a une chaine ou deux en rab, et pascal doit les ajouter au fichier pour qu'ensuite moi ou quelqu'un d'autre les traduise
+2012-11-06 22:02:14	<tchevalier>	si j'ai tout pigé
+2012-11-06 22:02:29	<%pascalc>	clarista, file lui ce lien http://l10n.mozilla-community.org/~pascalc/langchecker/?action=translate&file=survey5.lang
+2012-11-06 22:02:58	<%pascalc>	ça lui donne en cliquant sur les chaînes les traductions faites avec le code langue à côté, il n'a qu'à copier-coller
+2012-11-06 22:03:05	<%pascalc>	le Polonais est pas fait ceci dit
+2012-11-06 22:03:07	-->	Archaeopteryx (itsme@moz-756328DB.cust.telecolumbus.net) a rejoint #frenchmoz
+2012-11-06 22:03:12	-->	flynnv (Thunderbir@moz-77678BE9.rev.sfr.net) a rejoint #frenchmoz
+2012-11-06 22:03:20	<tchevalier>	Ha, le Sports passe pas sans le {ok}
+2012-11-06 22:03:22	<@clarista>	pascalc: done
+2012-11-06 22:03:24	<%pascalc>	mais le français et l'allemand sont faits depuis la semaine derni_ère
+2012-11-06 22:04:09	<tchevalier>	clarista: Dis-lui que "Sports" c'est pareil en fr, stp
+2012-11-06 22:04:37	<@clarista>	tchevalier: ok
+2012-11-06 22:04:41	<tchevalier>	Merci :)
+2012-11-06 22:04:50	<%pascalc>	dis lui que sports c'est un mot français en fait ;)
+2012-11-06 22:05:02	<tchevalier>	Haha
+2012-11-06 22:05:21	<@clarista>	ayé
+2012-11-06 22:06:45	<goofy>	clarista: à bien y regarder le fabio avait attaché un petit fichier que tu pouvais éditer en simple texte et lui renvoyer 
+2012-11-06 22:07:04	<@clarista>	goofy: oups... désolée
+2012-11-06 22:07:07	<goofy>	je n'avais pas fais gaffe, sinon je te l'aurais signalé :s
+2012-11-06 22:07:08	<@clarista>	vraiment désolée
+2012-11-06 22:07:25	<tchevalier>	Oui mais du coup on aurait fait le travail en double
+2012-11-06 22:07:57	<goofy>	:)
+2012-11-06 22:08:49	<--	Bobo (Thunderbir@moz-F17C806F.fbx.proxad.net) a quitté (Client exited)
+2012-11-06 22:08:52	-->	fabrice (fabrice@52A1524D.4E7EDEC9.632B8C24.IP) a rejoint #frenchmoz
+2012-11-06 22:15:19	<@clarista>	fabio est content
+2012-11-06 22:15:57	<%pascalc>	faudrait que je m'excuse mais bon, j'ai aussi le droit de ne pas bosser pendant mes congés...
+2012-11-06 22:16:29	<@clarista>	exactement
+2012-11-06 22:17:28	<%pascalc>	et c'est pas comme si l'équipe l10n c'était que moi, il aurait aussi pu demander à mon chef de le diriger vers un de mes collègues (Milos) pour prendre le relais
+2012-11-06 22:19:38	<--	flynnv (Thunderbir@moz-77678BE9.rev.sfr.net) a quitté (Quit: flynnv)
+2012-11-06 22:19:42	-->	flynnv (Thunderbir@moz-77678BE9.rev.sfr.net) a rejoint #frenchmoz
+2012-11-06 22:19:55	--	mermi est maintenant connu sous le nom meri
+2012-11-06 22:23:03	<goofy>	GeekShadow: ping http://beta.babelzilla.org/projects/ je me demande si tu n'aurais pas intérêt à envoyer tes xpi de nightingale sur cette branche
+2012-11-06 22:23:28	<goofy>	tu en es où avec ça ? 
+2012-11-06 22:27:28	-->	Banban (Mibbit@moz-5AE01E5D.rev.sfr.net) a rejoint #frenchmoz
+2012-11-06 22:28:34	<goofy>	pandark: ping
+2012-11-06 22:30:04	<Banban>	Bonsoir tout le monde
+2012-11-06 22:30:09	<goofy>	'soir
+2012-11-06 22:30:31	<flynnv>	Salut banban
+2012-11-06 22:30:31	<Banban>	Pour l'apéro spécial "petits nouveaux" de jeudi, à qui faut-il s'adresser pour s'inscrire ?
+2012-11-06 22:31:25	<goofy>	pour les prépas c'est juste du champomy hein
+2012-11-06 22:31:53	<Banban>	Who !! Je suis majeur quand même ;) Mais bon, l'alcool, c'est pas trop mon truc
+2012-11-06 22:31:55	<goofy>	Banban: faut pas s'inscrire faut y aller
+2012-11-06 22:32:09	<goofy>	enfin je pense
+2012-11-06 22:32:15	<pandark>	goofy: Vas-y, je me prépare psychologiquement...
+2012-11-06 22:32:32	 *	tchevalier sort les popcorn
+2012-11-06 22:32:32	<goofy>	ALORS PANDARK VOIS-TU...
+2012-11-06 22:32:42	<Banban>	Sur cetet page : http://wiki.mozfr.org/Apero_petits_nouveaux? en bas de la page, on parle d'inscriptions...
+2012-11-06 22:32:46	<Banban>	*cette
+2012-11-06 22:32:55	<goofy>	pandark: non rien de spécial j'ai juste déjeuné avec maxime aujourd'hui
+2012-11-06 22:32:59	-->	filip (filip@moz-29DEE454.disque-monde.org) a rejoint #frenchmoz
+2012-11-06 22:32:59	--	Mode #frenchmoz [+ao filip filip] par ChanServ
+2012-11-06 22:33:07	<pandark>	Ah :oD
+2012-11-06 22:33:25	<goofy>	pandark: car il est tourageau ôssi (personne n'est parfait) et
+2012-11-06 22:33:33	 *	pandark s'attendait à une tripoté de fautes dans un texte quelconque ^^
+2012-11-06 22:33:51	<goofy>	on a parlé de la saga inachevée du gouleyant javascript
+2012-11-06 22:34:08	<goofy>	trpotéE
+2012-11-06 22:34:32	<pandark>	oui, voilà, une potée :oP
+2012-11-06 22:34:42	<goofy>	donc il voudrait bnien que le truc aboutisse à un framabook
+2012-11-06 22:35:07	<goofy>	et christophe masutti a un planning de publication long comme ça
+2012-11-06 22:35:15	 *	goofy fait une geste éloquent
+2012-11-06 22:35:44	<goofy>	pandark: où en sont tes expérimentations en latex ?
+2012-11-06 22:36:07	 *	goofy goes fetish :P
+2012-11-06 22:36:57	<pandark>	J'ai commencé à réécrire un script de conversion en js, mais je me suis arrêté au milieu pour faire quarante autre trucs, que j'ai à peu près fini donc je vais m'y remettre :)
+2012-11-06 22:37:16	<goofy>	bon selon moi christophe ne sera pas ok avant le printemps prochain vu les bouquins in progress dans la file d'attente
+2012-11-06 22:37:44	<goofy>	et para illeurs il veut comme tu sais un interlocuteir  unique (mmmmh martin gubri ?)
+2012-11-06 22:38:00	<goofy>	et surtout il a à juste titre une exigence de qualitay !!
+2012-11-06 22:38:07	<--	flynnv (Thunderbir@moz-77678BE9.rev.sfr.net) a quitté (Quit: flynnv)
+2012-11-06 22:38:37	<pandark>	goofy: Mes objectifs sont dans l'ordre :
+2012-11-06 22:38:40	<goofy>	donc magnez-vous pour faire une version latex correcte avec des images en 300*400 dpi et autres
+2012-11-06 22:38:50	<goofy>	#1 dormir
+2012-11-06 22:38:52	<pandark>	- refaire les 2 version html
+2012-11-06 22:39:01	<pandark>	- faire une version epub
+2012-11-06 22:39:03	<goofy>	#2 lire le journal de Mickey
+2012-11-06 22:39:11	<pandark>	- faire une version latex
+2012-11-06 22:39:25	<goofy>	#3  mpettre une cagoule pour ne pas être reconnu par les méchants
+2012-11-06 22:39:36	<pandark>	- ...
+2012-11-06 22:39:40	<pandark>	- profit !!
+2012-11-06 22:40:06	<goofy>	#4 échapper à la vindicte de clarista
+2012-11-06 22:40:27	<goofy>	pansark: pourquoi une nouvelle version html ?
+2012-11-06 22:40:27	<pandark>	http://i3.kym-cdn.com/entries/icons/original/000/000/248/underpants.jpg
+2012-11-06 22:40:40	<--	foudfou (foudfou@moz-E52159A3.rev.numericable.fr) a quitté (Input/output error)
+2012-11-06 22:40:52	<goofy>	tsss
+2012-11-06 22:41:08	<--	tsatse (tsatse@moz-C6BC474B.fbx.proxad.net) a quitté (Ping timeout)
+2012-11-06 22:41:12	<pandark>	goofy: Non, la même version mais avec un convertisseur écrit dans un language socialement assumable :oP
+2012-11-06 22:41:29	<pandark>	(!= haskell)
+2012-11-06 22:43:05	<goofy>	mais euh c'est trop tendance le haskell
+2012-11-06 22:43:35	<taratatach>	ping nbp
+2012-11-06 22:43:52	<pandark>	goofy: Ouai, c'est super tendance (il y a vingt ans).
+2012-11-06 22:46:18	<--	Goldorak (chatzilla@7CD1B470.2BC633E3.88CF6591.IP) a quitté (Quit: ChatZilla 0.9.89-rdmsoft [XULRunner 1.9.0.17/2009122204])
+2012-11-06 22:46:40	<goofy>	pandark: attends j'ai vu une interview d'un célèbre vieux hacker qui s'est mis au haskell (un debianeux historique j'ai oublié le nom)
+2012-11-06 22:48:12	<arno>	goofy: joey hess je crois
+2012-11-06 22:48:25	<goofy>	bon enfin / ensuite la version epub tu maîtrises ou bien c'est pour découvrir ? passke kinou pourrait faire ça si on lui fait des grands sourires
+2012-11-06 22:48:46	<goofy>	(et si on met une coquille protège-couilles à tout hasard)
+2012-11-06 22:49:04	<goofy>	vu qu'elle a le genou agressif
+2012-11-06 22:49:17	-->	flynnv (Thunderbir@moz-77678BE9.rev.sfr.net) a rejoint #frenchmoz
+2012-11-06 22:49:46	<goofy>	arno: vouala, le gars qui vit avec pour toute énergie une pile de 4,5 volts
+2012-11-06 22:50:57	<pandark>	goofy: Bah à la base, c'est du html, et kinou était d'accord pour jouer les consultante quand je lui ai demandé :oD (avant de faire quarante autre trucs ^^'')
+2012-11-06 22:51:39	<goofy>	pandark: et le latex si j'en crois divers témoignages l conversion d'abord c'est simple et ensuite très accaparant dès qu'on commence à être sensible aux détails (?)
+2012-11-06 22:52:04	<goofy>	pandark: arrête de faire 40 trucs Adrien :) 
+2012-11-06 22:52:12	<Flore>	XioNoX: ping
+2012-11-06 22:53:31	<pandark>	goofy: En fait, je vais surtout essayer d'arriver à la même chose que ce qu'a fait Martin, je ne m'y connais pas vraiment en latex.
+2012-11-06 22:53:36	-->	stas (stas@24C94701.2379ECBA.D25A875A.IP) a rejoint #frenchmoz
+2012-11-06 22:53:39	-->	tsatse (tsatse@moz-C6BC474B.fbx.proxad.net) a rejoint #frenchmoz
+2012-11-06 22:54:29	<goofy>	pandark: c'est bien ce qui m'inquiète. Comme pour Martin, on ne peut pas vous reporcher de vouloir vous y initier mais bon le projet de publication s'éloigne d'autant
+2012-11-06 22:54:48	<goofy>	re pro cher
+2012-11-06 22:55:23	<pandark>	goofy: C'est à dire ? je croyais qu'il faisait ça avec monsieur framabook, sa version latex.. (?)
+2012-11-06 22:56:10	<goofy>	pandark: donc maxime, qui a tout de même passé un an à vérifier le code, voudrait bien faire une réunion de travail pour avancer et fioxer des objectifs et dates présumées de fin
+2012-11-06 22:56:47	<goofy>	pandark: oui mais martin fait ça tout seul quand il a le temps, christophe a plein d'autres trucs sur le feu
+2012-11-06 22:58:17	<goofy>	pandark: je lui ai dit (à maxime) qu'on pourrait envisager une réu/atelier dans le nouveaux locaux de mozilla (en février, mars ? je ne sai spas trop quand c'est prévu)
+2012-11-06 23:00:18	<goofy>	mais en attenadnt môssieu pandark va nous faire un article sur l'historique du projet son état actuel et ce qui reste à faire :D
+2012-11-06 23:00:51	<goofy>	pandark: tu notes que je viens de te donner un plan chronologique vachement original
+2012-11-06 23:00:58	<pandark>	goofy: AkA avait parlé de se voir en décembre (mais bon, on a rien fixé ^^) et les locaux, c'est au mars ou après, je ne sais plus trop.
+2012-11-06 23:01:05	<pandark>	-au
+2012-11-06 23:01:07	<goofy>	ok
+2012-11-06 23:01:28	<goofy>	tu pourras voir aka à l'oubountou partie bientôt
+2012-11-06 23:01:44	<goofy>	mais montre-toi déterminé et précis
+2012-11-06 23:01:49	<goofy>	(je sais c'est dur)
+2012-11-06 23:01:49	<pandark>	(= en gros, c'est plus réaliste de miser sur plus tard à mon avis ^^'')
+2012-11-06 23:01:58	<goofy>	clairement oui
+2012-11-06 23:02:35	<goofy>	en décembre à l'AG de frama* à Lyon je relancerai le truc
+2012-11-06 23:03:02	<goofy>	ça et puis le comic strip Mimi and eunice
+2012-11-06 23:03:30	<goofy>	qui est ton projet #42
+2012-11-06 23:04:15	<pandark>	ouai, ça, ça fait un moment que je n'y ai plus repensé à vrai dire :o)
+2012-11-06 23:04:23	<goofy>	:P
+2012-11-06 23:05:49	<pandark>	Enfin sinon, j'ai fait plusieurs trucs en js parmis mes 40 trucs, donc je suis bien entrainé là :op
+2012-11-06 23:06:00	-->	scravag (Adium@52A1524D.4E7EDEC9.632B8C24.IP) a rejoint #frenchmoz
+2012-11-06 23:07:50	<--	scravag (Adium@52A1524D.4E7EDEC9.632B8C24.IP) a quitté (Input/output error)
+2012-11-06 23:08:00	<goofy>	Maxime (que je ne connaissais pas encore contrairement à toi) m'a donné l'impression d'être un gars sérieux et prêt à bosser avec méthode et tout
+2012-11-06 23:08:16	<goofy>	(vs Goofynator)
+2012-11-06 23:10:28	<pandark>	goofy: Oui, mais il a plus ou moins fait le tour du livre. Après avoir fini de relire les derniers chapitres, il devrait pouvoir le réciter de tête... à l'envers :oP
+2012-11-06 23:11:30	<goofy>	pandark: dans EJS tu penses qu'il y a encore nécessité de relire côté texte ou bien il ne reste vraiment plus rien à nettoyer ?
+2012-11-06 23:11:49	<goofy>	et côté code il a quasiment fini maintenant non ,
+2012-11-06 23:11:50	<goofy>	?
+2012-11-06 23:12:10	<pandark>	Côté code, je pense, oui...
+2012-11-06 23:12:38	<pandark>	Pour le reste, il y a forcément *toujours* quelque chose à modifier :oD
+2012-11-06 23:13:01	<goofy>	oui bien sûr mais bon il y a un point où il faut arrpeter
+2012-11-06 23:13:05	<goofy>	arrêter
+2012-11-06 23:13:34	<--	Xaya (malkavian@moz-7B1B75D2.rev.sfr.net) a quitté (Quit: Le jeu est simple il n'y a que trois règles : 1) Si tu connais les règles tu joues ! 2) Si tu penses au jeu t'as perdu ! 3) Si tu perds tu dois le dire !)
+2012-11-06 23:13:40	<goofy>	il se peut que des formulations d epharses explicatives soient à amliorer en fonction du code justemenbt
+2012-11-06 23:14:04	<GeekShadow>	re
+2012-11-06 23:14:11	<goofy>	c'est un peu plus grave qu'une espace insécable oubliée devant un !
+2012-11-06 23:14:15	<goofy>	hello GeekShadow
+2012-11-06 23:14:35	<GeekShadow>	goofy, laisse moi deviner, c'est adofex ?
+2012-11-06 23:14:51	<goofy>	babelzila adofex-based oui
+2012-11-06 23:15:02	<GeekShadow>	je m'en doutait, j'ai vu ton fork sur github
+2012-11-06 23:15:14	<goofy>	si tu as des xpi à tester tu peux y aller
+2012-11-06 23:15:31	<goofy>	même pas à tester d'ailleurs c'est fonctionnel et destiné à rester
+2012-11-06 23:16:02	<goofy>	tu en es où avec tes langpacks ?
+2012-11-06 23:16:07	<GeekShadow>	cool :)
+2012-11-06 23:16:19	<GeekShadow>	bah il faut que je remette dans l'ordre les chaines
+2012-11-06 23:16:58	<pandark>	goofy: J'ai quelques trucs que je comptais modifier... et à vrai dire, ça fait un moment que je n'ai pas fait une vrai scéance de relecture d'EJS.
+2012-11-06 23:17:00	<GeekShadow>	j'ai commencé un script, mais pas encore fini
+2012-11-06 23:17:45	<goofy>	GeekShadow: sinon tu penses soumettre un xpi par langue ?
+2012-11-06 23:18:44	<GeekShadow>	hmm je pense envoyer un xpi avec toutes les langues sur babelzilla
+2012-11-06 23:19:00	<GeekShadow>	mais sinon pour nightingale à la release ça restera un langpack par langue
+2012-11-06 23:19:05	<goofy>	tout dans un seul ? ça va faire dans les 10 Mo ?
+2012-11-06 23:19:07	<GeekShadow>	oops
+2012-11-06 23:19:13	-->	gerard-majax (alex@moz-3DE48B86.clients.your-server.de) a rejoint #frenchmoz
+2012-11-06 23:19:19	<GeekShadow>	goofy, je n'ai pas compté
+2012-11-06 23:19:28	<goofy>	ah 1 par langue oui
+2012-11-06 23:20:34	<gerard-majax>	ping de londres :)
+2012-11-06 23:21:07	<goofy>	gerard-majax: pong from Tours
+2012-11-06 23:23:03	--	goofy est maintenant connu sous le nom goofy_afk
+2012-11-06 23:23:12	<GeekShadow>	goofy, il y a un moyen de savoir à quelles applications sont destinées les extensions sur adofex ?
+2012-11-06 23:25:37	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (services.mozilla.org (Too many invalid passwords))
+2012-11-06 23:25:44	<Flore>	clarista: ça a été fissa pour flickr :)
+2012-11-06 23:25:50	<Flore>	http://www.flickr.com/photos/89485559@N05/
+2012-11-06 23:26:00	<Flore>	Vous pouvez cliquer, y'a plus de danger
+2012-11-06 23:26:05	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:26:05	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:26:35	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:26:35	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:26:36	<@clarista>	Flore: oui :-)
+2012-11-06 23:26:47	<tchevalier>	Rik rejoint la team Gaia en décembre :)
+2012-11-06 23:26:59	<--	filip (filip@moz-29DEE454.disque-monde.org) a quitté #frenchmoz
+2012-11-06 23:27:05	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:27:05	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:27:09	<Flore>	bravo clarista, c'est grâce à toi :)
+2012-11-06 23:27:19	<--	meri (mermi@98A12A03.FDC07987.55FFA9B4.IP) a quitté (Quit: Quitte)
+2012-11-06 23:27:35	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:27:35	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:27:39	<gerard-majax>	clarista, tiens moi c'est pas garantie ue mandriva veuille encore de moi :(
+2012-11-06 23:27:50	<@clarista>	gerard-majax: pourquoi?
+2012-11-06 23:28:05	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:28:05	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:28:35	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:28:35	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:29:05	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:29:05	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:29:10	<flynnv>	flore : Y'avait quoi avant sur le lien ?
+2012-11-06 23:29:35	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:29:35	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:29:47	<tchevalier>	flynnv: Des choses que tu veux pas voir, et qui apparaissaient avec la recherche du mot-clé mozilla
+2012-11-06 23:29:53	<Flore>	flynnv: des photos pornos avec pour titre mozilla firefox
+2012-11-06 23:29:56	<gerard-majax>	clarista, j'ai pas vu d'enthousiasme quand on a évoqué la fin de mon contrat tout à l'heure (mi avril)
+2012-11-06 23:29:59	<flynnv>	ah d'accord --'
+2012-11-06 23:30:09	<gerard-majax>	clarista, et la sempiternelle réponse « va falloir que je vois ... »
+2012-11-06 23:30:36	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:30:36	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:31:05	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:31:05	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:31:36	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:31:36	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:32:06	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:32:06	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:32:35	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:32:35	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:32:50	<--	goofy_afk (Instantbir@moz-71CBBFA0.rev.sfr.net) a quitté (Quit: Instantbird 1.2 -- http://www.instantbird.com)
+2012-11-06 23:33:05	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:33:05	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:33:35	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:33:35	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:34:05	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:34:05	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:34:35	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:34:35	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:35:05	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:35:05	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:35:36	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:35:36	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:36:06	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:36:06	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:36:20	<--	flynnv (Thunderbir@moz-77678BE9.rev.sfr.net) a quitté (Quit: flynnv)
+2012-11-06 23:36:36	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:36:36	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:37:06	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:37:06	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:37:37	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:37:37	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:38:07	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:38:07	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:38:37	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:38:37	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:39:07	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:39:07	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:39:35	<--	tbx (t@moz-78BF47D5.adsl.alicedsl.de) a quitté (Quit: tbx)
+2012-11-06 23:39:37	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:39:37	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:40:07	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:40:07	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:40:38	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:40:38	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:41:08	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:41:08	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:41:38	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:41:38	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:42:08	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:42:08	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:42:38	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:42:38	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:43:09	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:43:09	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:43:39	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:43:39	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:44:09	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:44:09	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:44:39	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:44:39	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:45:09	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:45:09	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:45:40	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:45:40	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:46:10	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:46:10	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:46:40	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:46:40	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:47:10	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:47:10	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:47:40	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:47:40	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:48:11	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:48:11	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:48:41	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:48:41	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:49:11	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:49:11	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:49:16	<Chaasof>	record du monde avec yoric :D 
+2012-11-06 23:49:18	<%pascalc>	j'ai mis à jour les liens de téléchargement de Firefox et THunderbird sur Frnechmozilla
+2012-11-06 23:49:41	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:49:41	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:49:46	<%pascalc>	(oui j'ai de nouveau certains  droits root)
+2012-11-06 23:50:11	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:50:11	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:50:13	<%pascalc>	sur ce, dodo :)
+2012-11-06 23:50:15	<%pascalc>	A+
+2012-11-06 23:50:22	<--	pascalc (chatzilla@moz-446F98C8.fbxo.proxad.net) a quitté (Quit: bye)
+2012-11-06 23:51:07	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:51:07	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:51:37	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:51:37	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:52:07	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:52:07	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:52:38	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:52:38	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:53:07	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:53:07	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:53:37	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:53:37	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:54:07	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:54:07	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:54:38	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:54:38	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:55:08	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:55:08	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:55:15	<--	tofumatt (tofumatt@moz-9995AABD.hosts.kicksass.ca) a quitté (Ping timeout)
+2012-11-06 23:55:38	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:55:38	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:56:08	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:56:08	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:56:38	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:56:38	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:57:08	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:57:08	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:57:38	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:57:38	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:58:08	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:58:08	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:58:38	-->	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:58:38	<--	Yoric (Yoric@moz-DB4A9C19.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:59:06	<--	gerard-majax (alex@moz-3DE48B86.clients.your-server.de) a quitté (Ping timeout)
+2012-11-06 23:59:09	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:59:09	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-06 23:59:23	<--	clarista (Mibbit@moz-64E1A8DA.fbx.proxad.net) a quitté (Quit: http://www.mibbit.com ajax IRC Client)
+2012-11-06 23:59:39	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-06 23:59:39	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:00:09	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:00:09	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:00:39	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:00:39	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:01:10	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:01:10	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:01:40	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:01:40	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:02:00	-->	tofumatt (tofumatt@moz-9995AABD.hosts.kicksass.ca) a rejoint #frenchmoz
+2012-11-07 00:02:10	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:02:10	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:02:40	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:02:40	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:03:10	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:03:10	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:03:40	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:03:40	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:04:10	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:04:10	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:04:40	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:04:40	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:05:11	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:05:11	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:05:41	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:05:41	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:06:11	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:06:11	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:06:12	<--	Banban (Mibbit@moz-5AE01E5D.rev.sfr.net) a quitté (Quit: http://www.mibbit.com ajax IRC Client)
+2012-11-07 00:06:41	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:06:41	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:07:07	<--	Flore (Flore@moz-F17C806F.fbx.proxad.net) a quitté (Quit: Leaving.)
+2012-11-07 00:07:11	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:07:11	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:07:42	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:07:42	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:08:12	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:08:12	<--	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a quitté (Max SendQ exceeded)
+2012-11-07 00:08:42	-->	Yoric (Yoric@moz-59682A1.dmz.scl3.mozilla.com) a rejoint #frenchmoz
+2012-11-07 00:15:49	<--	SimSim (SimSim@moz-5E0B0156.fbx.proxad.net) a quitté (Client exited)
+2012-11-07 00:22:00	-->	fredyrouge (fredyrouge@B8A5C8FB.6F629162.412CF160.IP) a rejoint #frenchmoz
+2012-11-07 00:23:23	<--	bjacob (bjacob@F2D29657.F60B0462.67AC9B1.IP) a quitté (Ping timeout)
+2012-11-07 00:24:05	<--	stas (stas@24C94701.2379ECBA.D25A875A.IP) a quitté (Ping timeout)
+2012-11-07 00:33:22	-->	stas (stas@24C94701.2379ECBA.D25A875A.IP) a rejoint #frenchmoz
+2012-11-07 00:33:40	<--	Archaeopteryx (itsme@moz-756328DB.cust.telecolumbus.net) a quitté (Quit: Too much information in my brain driving me insane)
+2012-11-07 00:38:14	<--	stas (stas@24C94701.2379ECBA.D25A875A.IP) a quitté (Ping timeout)
+2012-11-07 00:40:58	<--	taratatach (Thunderbir@moz-2D0ED5E6.w86-203.abo.wanadoo.fr) a quitté (Quit: http://taratatach.github.com/FFDoku/)
+2012-11-07 00:40:58	--	khuey|away est maintenant connu sous le nom khuey
+2012-11-07 00:50:21	<--	tsatse (tsatse@moz-C6BC474B.fbx.proxad.net) a quitté (Quit: Leaving)
+2012-11-17 00:01:24	-->	Erebe (Erebe@moz-F458B6E4.insa-lyon.fr) a rejoint #frenchmoz
+2012-11-17 00:01:24	--	Le titre pour #frenchmoz est "Le salon des contributeurs Mozilla francophones | Activités en cours : http://claristamozilla.wordpress.com/2012/11/13/mozfr-la-newsletter-2/ | Règles : UTF-8 et zéro SMS | Aide pour Firefox, Thunderbird : http://forums.mozfr.org/ | http://wiki.mozfr.org/Agenda | ce soir "Tupper Vim", viendez nombreux !"
+2012-11-17 00:01:24	--	Titre défini par pascalc le jeu., 15 nov. 2012 11:07:45
+2012-11-17 00:01:24	--	Pseudos #frenchmoz: [@Benoit @filip alexis Archaeopteryx arno barzogh bjacob Bobo1 brambles Chaasof chewey cmal Darkknow davromaniak Erebe Eric`Taff fabrice firebot Flore FredB frmozbot gavin geb GeekShadow glandium Goldorak hugues hummeleBop IoanaChiorean Julia_away kang Keltounet khuey linostar madix margaret mbrubeck mermi Milos mounir mrbkap nbp nical not_gavin ochameau padenot pandark petiy phrawzty rednaks Siltaar sonny SwordArMor taratatach theocrite tofumatt tOkeshu tsatse vincentxavier XioNoX Yoric yvg]
+2012-11-17 00:01:24	--	Canal #frenchmoz: 62 pseudos (2 ops, 0 halfop, 0 voice, 60 normaux)
+2012-11-17 00:01:26	--	Mode #frenchmoz [+ntr]
+2012-11-17 00:01:26	--	Canal créé le lun., 30 mai 2011 00:10:03
+2012-11-17 00:02:00	<--	Erebe (Erebe@moz-F458B6E4.insa-lyon.fr) a quitté #frenchmoz (Au revoir 0.3.9)
+2012-11-22 21:05:16	-->	Erebe (Erebe@moz-AD2314F8.w90-53.abo.wanadoo.fr) a rejoint #frenchmoz
+2012-11-22 21:05:16	--	Le titre pour #frenchmoz est "Le salon des contributeurs Mozilla francophones | Activités en cours : http://claristamozilla.wordpress.com/2012/11/13/mozfr-la-newsletter-2/ | Règles : UTF-8 et zéro SMS | Aide pour Firefox, Thunderbird : http://forums.mozfr.org/ | http://wiki.mozfr.org/Agenda | merci à Flore pour son accueil aux jdll"
+2012-11-22 21:05:16	--	Titre défini par clarista le lun., 19 nov. 2012 11:03:57
+2012-11-22 21:05:16	--	Pseudos #frenchmoz: [@Benoit %chbok alexis arno barzogh bjacob BlackEco Bobo brambles caravel Chaasof chewey cmal Darkknow davromaniak delphine elemoine Erebe Eric`Taff firebot fla Flore florian flynnv FredB fredyrouge frmozbot gavin geb GeekShadow gerard-majax_ glandium Goldorak hugues hummeleBop jhopkins Julia kang Keltounet khuey|away linostar madix margaret mbrubeck mermi mrbkap nbp ochameau padenot pandark phrawzty Siltaar SimSim taratatach tbx tchevalier theocrite thinkling tofumatt tOkeshu tsatse Usul vincentxavier Xaya xcombelle XioNoX Yoric]
+2012-11-22 21:05:16	--	Canal #frenchmoz: 67 pseudos (1 op, 1 halfop, 0 voice, 65 normaux)
+2012-11-22 21:05:18	--	Mode #frenchmoz [+ntr]
+2012-11-22 21:05:18	--	Canal créé le lun., 30 mai 2011 00:10:03
+2012-11-22 21:16:59	-->	Erebe (Erebe@moz-AD2314F8.w90-53.abo.wanadoo.fr) a rejoint #frenchmoz
+2012-11-22 21:16:59	--	Le titre pour #frenchmoz est "Le salon des contributeurs Mozilla francophones | Activités en cours : http://claristamozilla.wordpress.com/2012/11/13/mozfr-la-newsletter-2/ | Règles : UTF-8 et zéro SMS | Aide pour Firefox, Thunderbird : http://forums.mozfr.org/ | http://wiki.mozfr.org/Agenda | merci à Flore pour son accueil aux jdll"
+2012-11-22 21:16:59	--	Titre défini par clarista le lun., 19 nov. 2012 11:03:57
+2012-11-22 21:16:59	--	Pseudos #frenchmoz: [@Benoit %chbok alexis arno barzogh bjacob BlackEco Bobo brambles caravel Chaasof chewey cmal Darkknow davromaniak delphine elemoine Erebe Eric`Taff firebot fla Flore florian flynnv FredB frmozbot gavin geb GeekShadow gerard-majax_ glandium Goldorak hugues hummeleBop jhopkins Julia kang Keltounet khuey|away linostar madix margaret mbrubeck mermi mrbkap nbp ochameau padenot pandark phrawzty Siltaar SimSim taratatach tbx tchevalier theocrite thinkling tofumatt tOkeshu tsatse Usul vincentxavier Xaya xcombelle XioNoX Yoric]
+2012-11-22 21:16:59	--	Canal #frenchmoz: 66 pseudos (1 op, 1 halfop, 0 voice, 64 normaux)
+2012-11-22 21:17:01	--	Mode #frenchmoz [+ntr]
+2012-11-22 21:17:01	--	Canal créé le lun., 30 mai 2011 00:10:03
+2012-11-22 21:18:54	<--	flynnv (Thunderbir@moz-61845818.w92-157.abo.wanadoo.fr) a quitté (Quit: flynnv)
+2012-11-22 21:25:23	-->	KrogpoK (chatzilla@moz-907C98E4.fbx.proxad.net) a rejoint #frenchmoz
+2012-11-22 21:25:48	-->	flynnv (Thunderbir@moz-61845818.w92-157.abo.wanadoo.fr) a rejoint #frenchmoz
+2012-11-22 21:26:04	<KrogpoK>	Saluut !
+2012-11-22 21:27:03	<fla>	KrogpoK, lu
+2012-11-22 21:29:03	<flynnv>	salut$
+2012-11-22 21:29:15	<pandark>	'Soir
+2012-11-22 21:29:18	<flynnv>	Des coder d'applis android ici ?
+2012-11-22 21:29:26	<KrogpoK>	fla = flaburgan ?
+2012-11-22 21:29:59	<--	Erebe (Erebe@moz-AD2314F8.w90-53.abo.wanadoo.fr) a quitté #frenchmoz (Au revoir 0.3.9)
+2012-11-22 21:33:17	-->	Erebe (Erebe@moz-AD2314F8.w90-53.abo.wanadoo.fr) a rejoint #frenchmoz
+2012-11-22 21:33:17	--	Le titre pour #frenchmoz est "Le salon des contributeurs Mozilla francophones | Activités en cours : http://claristamozilla.wordpress.com/2012/11/13/mozfr-la-newsletter-2/ | Règles : UTF-8 et zéro SMS | Aide pour Firefox, Thunderbird : http://forums.mozfr.org/ | http://wiki.mozfr.org/Agenda | merci à Flore pour son accueil aux jdll"
+2012-11-22 21:33:17	--	Titre défini par clarista le lun., 19 nov. 2012 11:03:57
+2012-11-22 21:33:17	--	Pseudos #frenchmoz: [@Benoit %chbok alexis arno barzogh bjacob BlackEco Bobo brambles caravel Chaasof chewey cmal Darkknow davromaniak delphine elemoine Erebe Eric`Taff firebot fla Flore florian flynnv FredB frmozbot gavin geb GeekShadow gerard-majax_ glandium Goldorak hugues hummeleBop jhopkins Julia kang Keltounet khuey|away KrogpoK linostar madix margaret mbrubeck mermi mrbkap nbp ochameau padenot pandark phrawzty Siltaar SimSim taratatach tbx tchevalier theocrite thinkling tofumatt tOkeshu tsatse Usul vincentxavier Xaya xcombelle XioNoX Yoric]
+2012-11-22 21:33:17	--	Canal #frenchmoz: 67 pseudos (1 op, 1 halfop, 0 voice, 65 normaux)
+2012-11-22 21:33:19	--	Mode #frenchmoz [+ntr]
+2012-11-22 21:33:19	--	Canal créé le lun., 30 mai 2011 00:10:03
+2012-11-22 21:33:47	-->	Erebe (Erebe@moz-AD2314F8.w90-53.abo.wanadoo.fr) a rejoint #frenchmoz
+2012-11-22 21:33:47	--	Le titre pour #frenchmoz est "Le salon des contributeurs Mozilla francophones | Activités en cours : http://claristamozilla.wordpress.com/2012/11/13/mozfr-la-newsletter-2/ | Règles : UTF-8 et zéro SMS | Aide pour Firefox, Thunderbird : http://forums.mozfr.org/ | http://wiki.mozfr.org/Agenda | merci à Flore pour son accueil aux jdll"
+2012-11-22 21:33:47	--	Titre défini par clarista le lun., 19 nov. 2012 11:03:57
+2012-11-22 21:33:47	--	Pseudos #frenchmoz: [@Benoit %chbok alexis arno barzogh bjacob BlackEco Bobo brambles caravel Chaasof chewey cmal Darkknow davromaniak delphine elemoine Erebe Eric`Taff firebot fla Flore florian flynnv FredB frmozbot gavin geb GeekShadow gerard-majax_ glandium Goldorak hugues hummeleBop jhopkins Julia kang Keltounet khuey|away KrogpoK linostar madix margaret mbrubeck mermi mrbkap nbp ochameau padenot pandark phrawzty Siltaar SimSim taratatach tbx tchevalier theocrite thinkling tofumatt tOkeshu tsatse Usul vincentxavier Xaya xcombelle XioNoX Yoric]
+2012-11-22 21:33:47	--	Canal #frenchmoz: 67 pseudos (1 op, 1 halfop, 0 voice, 65 normaux)
+2012-11-22 21:33:49	--	Mode #frenchmoz [+ntr]
+2012-11-22 21:33:49	--	Canal créé le lun., 30 mai 2011 00:10:03
