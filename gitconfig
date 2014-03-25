@@ -86,6 +86,10 @@
     sa = stash apply
     ss = stash save
 
+    #submodule
+    ssu = submodule update --recursive --init
+    ssa = submodule add 
+    
     cc = "!f() { git add -i && (git commit || git reset HEAD); }; f" 
     cp = cherry-pick
     grep = grep -Ii
