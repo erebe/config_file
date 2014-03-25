@@ -1,4 +1,4 @@
-[submodule "st"]
+[submodule "st_src"]
 	path = st_src
 	url = git://git.suckless.org/st
 [submodule "vim/bundle/haskellmode-vim"]

@@ -86,7 +86,7 @@
     sa = stash apply
     ss = stash save
 
-    cc = "!f() { git add -i && (git commit -a || git reset HEAD); }; f" 
+    cc = "!f() { git add -i && (git commit || git reset HEAD); }; f" 
     cp = cherry-pick
     grep = grep -Ii
     gr = grep -Ii
