@@ -6,7 +6,7 @@ BACKUP_PATH=./backup
 all:
 
 
-install: vim awesome zsh astyle urxvt tmux weechat conky git st
+install: vim awesome zsh astyle urxvt tmux weechat conky git 
 
 
 vim:
@@ -18,12 +18,14 @@ vim:
 
 awesome:
 	@(rm -rf ${HOME}/awesome)
+	@(rm -f ${CONFIG_PATH}/../awesome)
 	@(ln -s ${CONFIG_PATH}/awesome ${CONFIG_PATH}/../awesome)
 	@(echo 'Config de awesome installé !')
 
 zsh:
 	@(rm -rf ${HOME}/.zshrc ${HOME}/.oh-my-zsh)
-	@(ln -s ${CONFIG_PATH}/oh-my-zsh/zshrc ${CONFIG_PATH}/../oh-my-zsh/)
+	@(rm -f ${CONFIG_PATH}/../oh-my-zsh)
+	@(ln -s ${CONFIG_PATH}/oh-my-zsh/ ${CONFIG_PATH}/../oh-my-zsh)
 	@(ln -s ${CONFIG_PATH}/oh-my-zsh/zshrc ${HOME}/.zshrc)
 	@(echo 'Config de ZSH installé !')
 
