@@ -139,8 +139,6 @@ cd "$1"
 
 echo 'Creating bitbucket repository'
 curl -u 'erebe' https://api.bitbucket.org/1.0/repositories/ --data "name=$1;is_private=\"true\""
-echo 'Creating gitlab repository'
-curl --insecure --header "PRIVATE-TOKEN: qMbd9LuH82vv3ftGp8zW" "https://git.erebe.eu/api/v3/projects" --data "name=$1"
 
 echo '
 [remote "origin"]
